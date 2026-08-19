@@ -1,117 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "精选开源项目合集"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT镜像平替"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT编程语言客户端"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT自动化"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "第三方机器人接入"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-文档"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-编程"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-音视频"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-图表"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-测试"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-通用"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT工具-其他"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT插件"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT插件-官方"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT插件-浏览器"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT插件-第三方应用"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPT开源平替机器人"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "专业领域机器人"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Prompt对话指令"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GPTs🔥🔥🔥"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "其他（平台、逆向工程）"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -120,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 616751895,
             "language": "Python",
             "last_commit": "2026-07-03T22:06:36Z",
             "owner": "EmbraceAGI",
             "repo": "awesome-chatgpt-zh",
-            "stars": 11647
+            "stars": 11648
           }
         },
         {
@@ -134,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574097989,
             "language": null,
             "last_commit": "2025-10-15T20:35:53Z",
             "owner": "humanloop",
@@ -148,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 615695876,
             "language": null,
             "last_commit": "2023-05-03T02:45:22Z",
             "owner": "nichtdax",
@@ -157,16 +50,12 @@
         }
       ],
       "title": "相关资料"
-    },
-    {
-      "description": "这个awesome-open-gpt是我个人收集的关于GPT的有趣的开源项目，热烈欢迎你的贡献和建议，提交PR。",
-      "items": [],
-      "title": "贡献"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T06:18:24.124Z",
+    "last_updated": "2026-08-19T12:48:16.471Z",
     "original_repository": "EwingYangs/awesome-open-gpt",
+    "original_repository_id": 622980722,
     "original_repository_sha": "a843e44f2bbe7b1364af05995eb3aa14696a2c6f",
     "enhanced_repository": "enhansome/enhansome-open-gpt",
     "enhanced_repository_description": null,
