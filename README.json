@@ -124,7 +124,7 @@
             "last_commit": "2026-07-03T22:06:36Z",
             "owner": "EmbraceAGI",
             "repo": "awesome-chatgpt-zh",
-            "stars": 11646
+            "stars": 11647
           }
         },
         {
@@ -152,7 +152,7 @@
             "last_commit": "2023-05-03T02:45:22Z",
             "owner": "nichtdax",
             "repo": "awesome-totally-open-chatgpt",
-            "stars": 4787
+            "stars": 4786
           }
         }
       ],
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T06:17:06.431Z",
+    "last_updated": "2026-08-19T06:18:24.124Z",
     "original_repository": "EwingYangs/awesome-open-gpt",
     "original_repository_sha": "a843e44f2bbe7b1364af05995eb3aa14696a2c6f",
     "enhanced_repository": "enhansome/enhansome-open-gpt",
