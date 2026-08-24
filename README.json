@@ -4,6 +4,2934 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ChatGPT桌面版-01",
+              "description": "lencx-ChatGPT🔥 53.8k ChatGPT桌面版(Windows、macOS和Linux) 1.导出聊天记录(PNG, PDF和Markdown)2.支持斜杠调出常用Prompts(awesome-chatgpt-prompts )3.网页登录模式",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575340621,
+                "language": "Rust",
+                "last_commit": "2024-08-29T17:58:11Z",
+                "owner": "lencx",
+                "repo": "ChatGPT",
+                "stars": 54455
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT桌面版-02",
+              "description": "chatbox 34.8k 开源的ChatGPT桌面应用，prompt 开发神器 1.支持 Windows、Mac 和 Linux 2.更自由、更强大的 Prompt 能力 3.支持 GPT-4 和其他模型 4.更多功能：Markdown、消息引用、字数与token估算、夜间模式……",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 610260322,
+                "language": "TypeScript",
+                "last_commit": "2026-08-14T14:13:27Z",
+                "owner": "chatboxai",
+                "repo": "chatbox",
+                "stars": 41549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT桌面版-03",
+              "description": "BetterChatGPT 8.4k ChatGPT加强版桌面应用 1.支持网站 + Windows + MacOS + Linux2.绕过 ChatGPT 区域限制的代理3.过滤聊天和文件夹",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609333954,
+                "language": "TypeScript",
+                "last_commit": "2024-08-14T10:26:46Z",
+                "owner": "ztjhz",
+                "repo": "BetterChatGPT",
+                "stars": 8387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT桌面版-04",
+              "description": "chat-ai-desktop 2.0k 非官方的ChatGPT桌面应用程序(Windows、macOS和Linux) 1.支持API模式，免登录2.支持在Windows和Mac的菜单栏显示",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574034091,
+                "language": "Rust",
+                "last_commit": "2023-12-23T19:38:01Z",
+                "owner": "sonnylazuardi",
+                "repo": "chat-ai-desktop",
+                "stars": 1997
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT桌面版-05",
+              "description": "ChatGPT-Desktop 1.7k ChatGPT 跨平台客户端(Windows、macOS和Linux) 1.支持设置对话角色2.支持文生图",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 611734759,
+                "language": "Vue",
+                "last_commit": "2023-07-28T06:39:59Z",
+                "owner": "Synaptrix",
+                "repo": "ChatGPT-Desktop",
+                "stars": 1772
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NewBing桌面版",
+              "description": "BingGPT 9.2k 新必应人工智能聊天桌面应用程序（Windows、macOS 和 Linux） 1.无需安装 Microsoft Edge 或浏览器插件即可与新 Bing 聊天2.将完整对话导出为 Markdown、PNG 或 PDF3.自定义外观（主题和字体大小）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602320330,
+                "language": "JavaScript",
+                "last_commit": "2024-02-08T15:06:01Z",
+                "owner": "dice2o",
+                "repo": "BingGPT",
+                "stars": 8914
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-mac菜单版",
+              "description": "chatgpt-mac 6.4k 使ChatGPT生活在你的Mac菜单栏 1.在Mac菜单栏显示显示ChatGPT2.使用Cmd+Shift+G在任何地方唤起ChatGPT",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 572971616,
+                "language": "JavaScript",
+                "last_commit": "2023-10-23T09:53:08Z",
+                "owner": "vincelwt",
+                "repo": "chatgpt-mac",
+                "stars": 6263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-01",
+              "description": "visual-chatgpt 34.5k 微软开源的一款工具，可以为 ChatGPT 添加图片能力 1.支持文生图2.支持文改图",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608555244,
+                "language": "Python",
+                "last_commit": "2024-01-06T02:41:20Z",
+                "owner": "chenfei-wu",
+                "repo": "TaskMatrix",
+                "stars": 34006
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-02",
+              "description": "chatgpt_academic 68.5k ChatGPT 学术优化 1.支持一键润色、一键查找论文语法错误2.一键中英互译 3.可以正确显示代码、解释代码 4.一键可以剖析其他Python/C++项目 5.可以输出支持GPT的markdown表格",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616372661,
+                "language": "Python",
+                "last_commit": "2026-01-25T12:33:10Z",
+                "owner": "binary-husky",
+                "repo": "gpt_academic",
+                "stars": 71224
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-03",
+              "description": "chatgpt-web 32.0k 用 Express 和 Vue3 搭建的 ChatGPT 演示网页 1.支持下载对话内容2.支持Prompt模版",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 599394820,
+                "language": "Vue",
+                "last_commit": "2024-08-16T15:26:57Z",
+                "owner": "Chanzhaoyu",
+                "repo": "chatgpt-web",
+                "stars": 31493
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-04",
+              "description": "ChatGPT-Next-Web 83.4k 一键拥有你自己的 ChatGPT 网页服务 1.在 1 分钟内使用 Vercel 免费一键部署，并且支持容器部署2.海量的内置 prompt 列表，来自中文和英文3.一键导出聊天记录，完整的 Markdown 支持",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612344730,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T02:07:25Z",
+                "owner": "ChatGPTNextWeb",
+                "repo": "NextChat",
+                "stars": 88648
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-05",
+              "description": "chatbot-ui 31.3k 搭建属于自己的 ChatGPT 网站: ChatBot-UI 1.支持Prompt模版2.支持搜索聊天内容3.支持GPT-44.支持代码高亮显示5.支持Markdown输出",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612640604,
+                "language": "TypeScript",
+                "last_commit": "2024-08-03T00:38:07Z",
+                "owner": "mckaywrigley",
+                "repo": "chatbot-ui",
+                "stars": 33341
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-06",
+              "description": "ChuanhuChatGPT 15.4k 轻快好用的ChatGPT Web图形界面 1.实时回复2.无限对话3.保存对话记录4.预设Prompt集5.联网搜索6.根据文件回答",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608660982,
+                "language": "Python",
+                "last_commit": "2026-04-30T13:54:58Z",
+                "owner": "GaiZhenbiao",
+                "repo": "ChuanhuChatGPT",
+                "stars": 15280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-07",
+              "description": "BetterChatGPT 8.4k 一个惊人的开源web应用程序，具有更好的UI，用于探索OpenAI的ChatGPT API 1.支持自定义提示词资料库2.支持使用文件夹整理聊天3.支持自定义用户/助理/系统身份4.支持将聊天保存为 Markdown/图片/JSON",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609333954,
+                "language": "TypeScript",
+                "last_commit": "2024-08-14T10:26:46Z",
+                "owner": "ztjhz",
+                "repo": "BetterChatGPT",
+                "stars": 8387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-08",
+              "description": "EX-chatGPT 2.0k Ex-ChatGPT 使得 ChatGPT 能够调用外部 API，例如 WolframAlpha、Google 和 WikiMedia，以提供更准确和及时的答案 1.语音对话功能，使用微软 Azure API，优化响应速度 ( 1-2 秒左右 ) ，包含语音识别和文字转语音，支持多种音色和语言，自定义声音。2.docker 和 proxy 支持。3.对 Google 搜索结果进行数据清洗, 减少token占用。4.允许 ChatGPT 调用外部 API 接口 ( Google,WolframAlpha,WikiMedia )",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 608455903,
+                "language": "Python",
+                "last_commit": "2023-03-30T11:10:00Z",
+                "owner": "circlestarzero",
+                "repo": "EX-chatGPT",
+                "stars": 1958
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-09",
+              "description": "chatgpt-php-web 3.2k PHP版调用OpenAI最新接口和模型gpt-3.5-turbo进行问答的Web 1.增加了一些预设话术2.对手机浏览器进行了适配优化",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602478874,
+                "language": "JavaScript",
+                "last_commit": "2025-07-24T06:39:51Z",
+                "owner": "dirk1983",
+                "repo": "deepseek",
+                "stars": 3104
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-10",
+              "description": "yakGPT 1.6k 一个简单的，本地运行的ChatGPT UI，使您的文本生成更快，聊天更吸引人! 1.支持api调用2.支持语音输入",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621379499,
+                "language": "TypeScript",
+                "last_commit": "2024-05-08T23:58:37Z",
+                "owner": "yakGPT",
+                "repo": "yakGPT",
+                "stars": 1585
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-web加强版-11",
+              "description": "multimedia-gpt 186 为您的ChatGPT提供图像、视频和音频输入 1.将OpenAI GPT与视觉和音频连接起来。您现在可以使用OpenAI API密钥发送图像、音频记录和pdf文档，并获得文本和图像格式的响应。目前正在增加对视频的支持。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614425687,
+                "language": "Python",
+                "last_commit": "2025-07-18T16:14:44Z",
+                "owner": "fengyuli-dev",
+                "repo": "multimedia-gpt",
+                "stars": 179
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-文心一言开源版",
+              "description": "visual-openllm 1.2k 文心一言的开源版，基于 ChatGLM + Visual ChatGPT + Stable Diffusion 1.画图+聊天",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619028064,
+                "language": "Python",
+                "last_commit": "2024-02-24T13:12:20Z",
+                "owner": "visual-openllm",
+                "repo": "visual-openllm",
+                "stars": 1186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-命令行版-01",
+              "description": "shell_gpt 10.9k 在Shell中使用ChatGPT 1.支持api调用2.支持上下文",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 590604203,
+                "language": "Python",
+                "last_commit": "2026-07-02T06:03:01Z",
+                "owner": "TheR1D",
+                "repo": "shell_gpt",
+                "stars": 12255
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-命令行版-02",
+              "description": "aichat 6.7k 终端使用ChatGPT/GPT-3.5/GPT-4 1.支持角色预设2.语法突出显示markdown和其他200种语言",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608896930,
+                "language": "Rust",
+                "last_commit": "2026-02-23T11:16:42Z",
+                "owner": "sigoden",
+                "repo": "aichat",
+                "stars": 10387
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-命令行版+语音",
+              "description": "chatgpt-conversation 664 在命令行用你的声音与ChatGPT对话，并让它回应 1.在cli命令行和ChatGPT语音交谈",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574260301,
+                "language": "Python",
+                "last_commit": "2022-12-06T09:19:40Z",
+                "owner": "platelminto",
+                "repo": "chatgpt-conversation",
+                "stars": 653
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT克隆",
+              "description": "chatgpt-clone 25.6k 使用官方模型和Bing的ChatGPT克隆，反向工程UI，支持AI模型切换、消息搜索、ChatGPT插件和提示模板 1.通过服务器发送的事件实现与ChatGPT相同的响应流2.包括Dark模式的原始ChatGPT UI 3.AI模型选择（通过3个端点：OpenAI API、BingAI和ChatGPT浏览器） 4.为OpenAI和BingAI端点创建、保存和分享自定义预设 5.像官方网站一样编辑和重新提交消息（支持会话分支） 6.搜索所有消息/对话 7.即将集成插件",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600596928,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T13:57:24Z",
+                "owner": "danny-avila",
+                "repo": "LibreChat",
+                "stars": 42404
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT镜像平替"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Node-ChatGPT客户端",
+              "description": "chatgpt-node 17.5k 官方ChatGPT API的Node.js客户端。",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 573631261,
+                "language": "TypeScript",
+                "last_commit": "2026-02-11T04:50:03Z",
+                "owner": "transitive-bullshit",
+                "repo": "agentic",
+                "stars": 18115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python-ChatGPT客户端",
+              "description": "PyChatGPT 4.2k 非官方ChatGPT API的Python客户端。 1.具有自动令牌再生，会话跟踪，代理支持等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574428530,
+                "language": "Python",
+                "last_commit": "2026-07-19T08:13:04Z",
+                "owner": "rawandahmad698",
+                "repo": "PyChatGPT",
+                "stars": 4182
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python-Shell-ChatGPT客户端",
+              "description": "chatgpt-wrapper 3.7k 在python或者命令行中使用ChatGPT 1.支持ChatGPT4",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573822937,
+                "language": "Python",
+                "last_commit": "2026-08-14T17:15:46Z",
+                "owner": "llm-workflow-engine",
+                "repo": "llm-workflow-engine",
+                "stars": 3719
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java-ChatGPT客户端-01",
+              "description": "chatgpt-java 3.6k ChatGPT Java SDK。支持 GPT3.5、 GPT4 API。开箱即用。 1.支持上下文、阻塞式对话、代理等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575253452,
+                "language": "Java",
+                "last_commit": "2025-11-29T16:41:52Z",
+                "owner": "PlexPt",
+                "repo": "chatgpt-java",
+                "stars": 3579
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java-ChatGPT客户端-02",
+              "description": "chatgpt-java 3.4k ChatGPT的Java客户端，ChatGPT Java SDK，流式输出。 1.支持OpenAI官方所有接口2.支持流式输出",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 600362783,
+                "language": "Java",
+                "last_commit": "2024-08-08T03:04:22Z",
+                "owner": "Grt1228",
+                "repo": "chatgpt-java",
+                "stars": 3422
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java-OpenAi客户端",
+              "description": "openai-java 4.8k OpenAI的java客户端。 1.支持GPT-4",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 295598569,
+                "language": "Java",
+                "last_commit": "2024-06-06T20:00:23Z",
+                "owner": "TheoKanning",
+                "repo": "openai-java",
+                "stars": 4728
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Node-ChatGPT-Bing客户端",
+              "description": "node-chatgpt-api 4.2k ChatGPT和Bing AI的node客户端 1.支持BingAIClient2.支持ChatGPTBrowserClient",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586141825,
+                "language": "JavaScript",
+                "last_commit": "2024-01-27T04:39:55Z",
+                "owner": "waylaidwanderer",
+                "repo": "node-chatgpt-api",
+                "stars": 4151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go-OpenAi客户端",
+              "description": "go-openai 10.0k OpenAI的go客户端。 1.支持GPT-4",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288482469,
+                "language": "Go",
+                "last_commit": "2026-08-19T20:04:20Z",
+                "owner": "sashabaranov",
+                "repo": "go-openai",
+                "stars": 10743
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP-OpenAi客户端",
+              "description": "openai-php 2.3k OpenAI的PHP SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 440520058,
+                "language": "PHP",
+                "last_commit": "2025-03-12T12:05:15Z",
+                "owner": "orhanerday",
+                "repo": "open-ai",
+                "stars": 2366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Android-ChatGPT客户端",
+              "description": "chatgpt-android 3.8k 安卓的ChatGPT-SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576254831,
+                "language": "Kotlin",
+                "last_commit": "2026-01-03T01:54:02Z",
+                "owner": "skydoves",
+                "repo": "chatgpt-android",
+                "stars": 3867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".Net-ChatGPT客户端",
+              "description": "openai-dotnet 3.0k OpenAI ChatGPT, Whisper, GPT-3, GPT-4, Azure OpenAI和DALL-E的dotnet SDK",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 432730711,
+                "language": "C#",
+                "last_commit": "2026-03-21T23:26:52Z",
+                "owner": "betalgo",
+                "repo": "openai",
+                "stars": 3020
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT编程语言客户端"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GPT自动化-01",
+              "description": "Auto-GPT 175.3k 自动化的GPT 1.与ChatGPT不同的是，用户不需要不断对AI提问以获得对应回答，在AutoGPT中只需为其提供一个AI名称、描述和五个目标，然后AutoGPT就可以自己完成项目2.它可以读写文件、浏览网页、审查自己提示的结果，以及将其与所说的提示历史记录相结合。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614765452,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:56:37Z",
+                "owner": "Significant-Gravitas",
+                "repo": "AutoGPT",
+                "stars": 186849
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-01-插件",
+              "description": "Auto-GPT-Plugins 3.9k AutoGPT的插件 暂时没内容，仓库来源于AutoGPT作者，值得留意！！!",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 625411260,
+                "language": "Python",
+                "last_commit": "2024-04-29T13:45:09Z",
+                "owner": "Significant-Gravitas",
+                "repo": "Auto-GPT-Plugins",
+                "stars": 3827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-01-图形界面",
+              "description": "autogpt-gui 1.5k AutoGPT的图形用户界面",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 626564762,
+                "language": "JavaScript",
+                "last_commit": "2023-06-13T22:16:04Z",
+                "owner": "thecookingsenpai",
+                "repo": "autogpt-gui",
+                "stars": 1499
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-01-图形界面",
+              "description": "AutoGPT-Next-Web 187 一键免费部署你的私人AutoGPT 网页应用 1.1 分钟内使用 Vercel 免费一键部署2.改进的本地支持：输入中文后，内容将以中文显示，而不是英文",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654447431,
+                "language": "TypeScript",
+                "last_commit": "2023-12-11T15:01:19Z",
+                "owner": "Dogtiti",
+                "repo": "AutoGPT-Next-Web",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-01-中文版",
+              "description": "Auto-GPT-ZH 2.4k 自动化的GPT-中文版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629292062,
+                "language": "Python",
+                "last_commit": "2025-08-15T13:46:08Z",
+                "owner": "kaqijiang",
+                "repo": "Auto-GPT-ZH",
+                "stars": 2465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-02",
+              "description": "AgentGPT 34.1k 在浏览器中组装、配置和部署自动AI代理。 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 624681066,
+                "language": "TypeScript",
+                "last_commit": "2025-04-29T01:19:32Z",
+                "owner": "reworkd",
+                "repo": "AgentGPT",
+                "stars": 36304
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-03",
+              "description": "babyagi 21.5k 只需给个目标和任务迭代次数，就能让AI自动完成你的任务 1.命名你自己的自定义AI，让它开始任何你能想到的目标。它将试图通过思考要做的任务",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 622737738,
+                "language": "Python",
+                "last_commit": "2026-01-31T05:05:45Z",
+                "owner": "yoheinakajima",
+                "repo": "babyagi",
+                "stars": 22356
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化-04",
+              "description": "MiniAGI 2.9k 基于GPT3.5/4的最小通用自主代理。 1.可以分析股票价格、执行网络安全测试、创作艺术图片和订购披萨。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 627744002,
+                "language": "Python",
+                "last_commit": "2023-06-14T05:47:59Z",
+                "owner": "muellerberndt",
+                "repo": "mini-agi",
+                "stars": 2900
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPT自动化 05",
+              "description": "DemoGPT 1.8k DemoGPT 让您只需使用句子即可创建快速演示。 它将ToT方法应用于Langchain文档树。 只需说出一句话，让 DemoGPT 准备整个管道并从中创建您的自定义应用程序。 然后，只需使用您的提示，您就可以创建您梦想的应用程序",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650549146,
+                "language": "Python",
+                "last_commit": "2026-04-01T12:30:12Z",
+                "owner": "melih-unsal",
+                "repo": "DemoGPT",
+                "stars": 1904
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT自动化"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "微信ChatGPT机器人-01",
+              "description": "wechat-chatgpt 13.3k 在微信上迅速接入 ChatGPT 1.基于 wechaty 和 Official API 在微信中使用 ChatGPT2.支持多轮对话3.支持命令设置4.支持 Dall·E5.支持 whisper6.支持设置 prompt",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574965758,
+                "language": "TypeScript",
+                "last_commit": "2024-05-20T09:44:41Z",
+                "owner": "fuergaosi233",
+                "repo": "wechat-chatgpt",
+                "stars": 13237
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "微信ChatGPT机器人-02",
+              "description": "chatgpt-on-wechat 25.1k 使用ChatGPT搭建微信聊天机器人，基于GPT3.5 API和itchat实现 1.支持规则定制化2.多账号3.图片生成4.上下文记忆5.语音识别6.插件化",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 522158088,
+                "language": "Python",
+                "last_commit": "2026-08-23T09:56:41Z",
+                "owner": "zhayujie",
+                "repo": "CowAgent",
+                "stars": 46650
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "微信ChatGPT机器人-03",
+              "description": "ChatGPT-wechat-bot 4.6k 微信ChatGPT机器人 1.支持上下文语境的对话。2.支持重置上下文语境，通过关键词(reset)重置对话上下文语境。3.支持在群聊@你的机器人 🤖，@机器人即可收到回复。4.支持通过关键词唤醒你的机器人，如当在群组中发送“@机器人 hello xxxx”时才会收到回复。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574600955,
+                "language": "TypeScript",
+                "last_commit": "2025-10-23T08:27:49Z",
+                "owner": "AutumnWhj",
+                "repo": "ChatGPT-wechat-bot",
+                "stars": 4710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "微信 ChatGPT机器人-04",
+              "description": "openai-on-wechat 171 基于 Golang 实现的，OpenAI 微信聊天机器人，部署简单，使用桌面版微信协议，突破微信登录限制 - 文本对话： 可以接收私聊/群聊消息，使用 OpenAI 的 gpt-3.5-turbo 生成回复内容，自动回复问题- 触发口令设置：好友在给你发消息时需要带上指定的前缀才可以触发与 GPT 机器人对话，触发口令可以在配置文件中设置- 连续对话：支持对 私聊/群聊 开启连续对话功能，可以通过配置文件设置需要记忆多少分钟- 图片生成：可以根据描述生成图片，并自动回复在当前 私聊/群聊 中",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612832767,
+                "language": "Go",
+                "last_commit": "2023-04-19T13:01:40Z",
+                "owner": "riba2534",
+                "repo": "openai-on-wechat",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QQ和电报ChatGPT机器人",
+              "description": "OpenaiBot 1.9k OpenaiBot是一款优秀的基于 GPT 系列模型(主要为 Openai ) 接口的ChatGPT聊天机器人。 1.支持跨多平台使用、有通用接口，目前能对接到QQ和Telegram聊天平台使用、进行私聊和群聊、主动搜索回复、图像Blip理解支持、语音识别、贴纸支持、聊天黑白名单限制等多种功能",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574462676,
+                "language": "Python",
+                "last_commit": "2025-06-09T16:20:12Z",
+                "owner": "LlmKira",
+                "repo": "Openaibot",
+                "stars": 1970
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Discord-ChatGPT机器人",
+              "description": "chatGPT-discord-bot 2.6k 将ChatGPT集成到您自己的discord机器人中 1.切换GPT接口模式，支持4.0 2.支持Dalle2生图",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574046356,
+                "language": "Python",
+                "last_commit": "2025-07-27T08:28:56Z",
+                "owner": "Zero6992",
+                "repo": "chatGPT-discord-bot",
+                "stars": 2729
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "电报ChatGPT机器人-01",
+              "description": "ChatGPT-Telegram-Workers 3.2k 将ChatGPT集成到您自己的Telegram机器人中 1.使用Cloudflare Workers，单文件，直接复制粘贴一把梭，无需任何依赖，无需配置本地开发环境，不用域名，免服务器",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609002853,
+                "language": "TypeScript",
+                "last_commit": "2026-04-06T19:48:25Z",
+                "owner": "tbxark",
+                "repo": "ChatGPT-Telegram-Workers",
+                "stars": 3813
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "电报ChatGPT机器人-02",
+              "description": "chatgpt-telegram-bot 2.7k Telegram机器人与OpenAI的官方ChatGPT api集成 1.支持markdown输出2.Docker和Proxy支持3.支持DALL·E4.支持使用Whisper转录音频和视频消息",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574160606,
+                "language": "Python",
+                "last_commit": "2025-06-03T19:45:13Z",
+                "owner": "n3d1117",
+                "repo": "chatgpt-telegram-bot",
+                "stars": 3461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QQ-ChatGPT机器人-01",
+              "description": "chatgpt-mirai-qq-bot 12.1k 一款使用 OpenAI 的 ChatGPT 进行聊天的 QQ 机器人！ 1.文字转图片发送2.群聊回复引用3.关键词触发回复4.正向代理5.多账号支持6.支持 Mirai、 go-cqhttp、 Telegram Bot7.支持 ChatGPT Plus8.支持 ChatGPT API9.支持 Bing 聊天10.支持 Google bard11.支持 poe.com 网页版12.支持 文心一言 网页版13.支持 ChatGLM-6B 本地版",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574506496,
+                "language": "Python",
+                "last_commit": "2025-06-28T19:24:48Z",
+                "owner": "lss233",
+                "repo": "kirara-ai",
+                "stars": 18959
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QQ-ChatGPT机器人-02",
+              "description": "QChatGPT 3.8k 高稳定性、低耦合、支持插件、适配多种模型的 ChatGPT NewBing QQ 机器人！ 1.已支持 GPT-4、New Bing2.支持对话、绘图等模型，可玩性更高3.私聊、群聊黑名单机制",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 575321313,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:54:23Z",
+                "owner": "langbot-app",
+                "repo": "LangBot",
+                "stars": 17536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WhatsApp-ChatGPT机器人",
+              "description": "whatsapp-gpt 3.1k 在whatsapp上迅速接入 ChatGPT 1.聊天机器人",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573538566,
+                "language": "Go",
+                "last_commit": "2024-04-26T17:22:52Z",
+                "owner": "danielgross",
+                "repo": "whatsapp-gpt",
+                "stars": 3058
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "飞书ChatGPT机器人-01",
+              "description": "feishu-chatgpt 5.4k 飞书 ×（GPT-3.5 + DALL·E + Whisper）= 飞一般的工作体验 1.🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 598539671,
+                "language": "Go",
+                "last_commit": "2025-07-08T09:42:50Z",
+                "owner": "ConnectAI-E",
+                "repo": "feishu-openai",
+                "stars": 5638
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "飞书ChatGPT机器人-02",
+              "description": "ChatGPT-Feishu 1.1k 给飞书准备的 ChatGPT 机器人 1.简单版本",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 599686136,
+                "language": "JavaScript",
+                "last_commit": "2025-01-13T02:15:22Z",
+                "owner": "bestony",
+                "repo": "ChatGPT-Feishu",
+                "stars": 1168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LINE-ChatGPT机器人-01",
+              "description": "gpt-ai-assistant 7.0k 在LINE上接入ChatGPT聊天机器人 1.支持角色塑造2.支持定制Prompt模版3.支持文生图",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576238936,
+                "language": "JavaScript",
+                "last_commit": "2026-06-08T13:29:55Z",
+                "owner": "memochou1993",
+                "repo": "gpt-ai-assistant",
+                "stars": 7737
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LINE-ChatGPT机器人-02",
+              "description": "ChatGPT-Line-Bot 1.4k 这是一个允许您将ChatGPT集成到Line的开源库 1.支持文生图2.总结 Youtube 影片內容、新文文章",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 604408050,
+                "language": "Python",
+                "last_commit": "2024-05-04T20:22:41Z",
+                "owner": "TheExplainthis",
+                "repo": "ChatGPT-Line-Bot",
+                "stars": 1688
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Slack-ChatGPT机器人",
+              "description": "myGPTReader 4.4k myGPTReader 是一个 Slack 机器人。 1.可以阅读任何网页、电子书、视频（YouTube）或文件，并通过 chatGPT 进行总结。它还可以通过语音与你交谈",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 611284377,
+                "language": "Python",
+                "last_commit": "2026-02-05T10:40:28Z",
+                "owner": "myreader-io",
+                "repo": "myGPTReader",
+                "stars": 4419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Teams-ChatGPT机器人",
+              "description": "openai-teams-bot 122 一个OpenAI Teams Bot应用程序，让你在微软Teams中使用OpenAI API聊天，类似于ChatGPT Teams Bot应用程序。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 578103842,
+                "language": "TypeScript",
+                "last_commit": "2023-03-26T16:00:46Z",
+                "owner": "formulahendry",
+                "repo": "openai-teams-bot",
+                "stars": 121
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "第三方机器人接入"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "论文总结",
+                  "description": "ChatPaper 17.7k 利用chatgpt进行论文总结+润色+审稿+审稿回复 1.论文总结+润色+审稿+审稿回复",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611305072,
+                    "language": "Python",
+                    "last_commit": "2026-03-02T15:48:09Z",
+                    "owner": "kaixindelele",
+                    "repo": "ChatPaper",
+                    "stars": 19776
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "论文交谈",
+                  "description": "researchgpt 3.6k 一个开源的LLM研究助手，允许您与研究论文进行对话 上传论文，和论文对话。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 595940434,
+                    "language": "Python",
+                    "last_commit": "2023-11-21T01:54:29Z",
+                    "owner": "mukulpatnaik",
+                    "repo": "researchgpt",
+                    "stars": 3531
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF交谈-01",
+                  "description": "gpt4-pdf-chatbot-langchain 14.6k PDF聊天机器人 1.使用新的GPT-4 api为多个大型PDF文件构建chatGPT聊天机器人。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 615113749,
+                    "language": "TypeScript",
+                    "last_commit": "2026-03-27T16:04:05Z",
+                    "owner": "mayooear",
+                    "repo": "ai-pdf-chatbot-langchain",
+                    "stars": 16599
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF交谈-02",
+                  "description": "pdfGPT 6.7k PDF GPT 允许您使用 GPT 功能与 PDF 文件的内容聊天。在聊天机器人中转换您的 pdf 文件的唯一开源解决方案！ 1.基于CPT和上传的PDF文件交谈",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 610912437,
+                    "language": "Python",
+                    "last_commit": "2026-03-06T20:50:46Z",
+                    "owner": "bhaskatripathi",
+                    "repo": "pdfGPT",
+                    "stars": 7167
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF总结",
+                  "description": "DocsGPT 14.2k ChatGPT文档阅读器 1.支持总结PDF2.支持分享到discord",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 596516907,
+                    "language": "Python",
+                    "last_commit": "2026-08-24T13:56:05Z",
+                    "owner": "arc53",
+                    "repo": "DocsGPT",
+                    "stars": 18221
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PPT生成",
+                  "description": "chat-gpt-ppt 864 使用ChatGPT自动生成PPT 1.根据标题一键生成ppt2.支持多种语言",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574347022,
+                    "language": "Go",
+                    "last_commit": "2023-03-27T15:07:57Z",
+                    "owner": "williamfzc",
+                    "repo": "chat-gpt-ppt",
+                    "stars": 917
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "PDF阅读",
+                  "description": "ebook-GPT-translator 1.6k 以各种风格的语言阅读PDF、DOCX文件 该工具旨在帮助用户将文本从一种格式转换为另一种格式，以及使用 OpenAI API (model=gpt-3.5-turbo) 将其翻译成另一种语言。 目前支持PDF、DOCX、MOBI和EPUB文件格式转换翻译成EPUB文件及文本文件，可以将文字翻译成多种语言。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 611622512,
+                    "language": "Python",
+                    "last_commit": "2026-03-15T04:13:50Z",
+                    "owner": "jesselau76",
+                    "repo": "ebook-GPT-translator",
+                    "stars": 1725
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "文档生成问题答案",
+                  "description": "auto-evaluator 1.0k 输入文档自动生成问题、答案、评分 1.自动生成问题答案2.对相对于答案的响应进行评分 3.支持json、PDF、TXT等格式",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628105790,
+                    "language": "Python",
+                    "last_commit": "2023-05-10T02:00:18Z",
+                    "owner": "rlancemartin",
+                    "repo": "auto-evaluator",
+                    "stars": 1101
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "文档知识库",
+                  "description": "vault-ai 3.2k OP Vault ChatGPT：使用 OP Stack（OpenAI + Pinecone Vector Database）为 ChatGPT 提供长期记忆。使用简单的 React 前端上传您自己的自定义知识库文件（PDF、txt 等） 1.支持PDF、.txt、.rtf 和纯文本",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629313011,
+                    "language": "JavaScript",
+                    "last_commit": "2025-07-08T16:02:56Z",
+                    "owner": "pashpashpash",
+                    "repo": "vault-ai",
+                    "stars": 3388
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-文档"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "git工具-03",
+                  "description": "aicommits 7.4k 用ChatGPT提交commit 自动生成清晰、全面和描述性的提交消息",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 601399291,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-14T15:26:32Z",
+                    "owner": "Nutlope",
+                    "repo": "aicommits",
+                    "stars": 9095
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "git工具-02",
+                  "description": "opencommit 5.4k 用ChatGPT提交commit 自动生成清晰、全面和描述性的提交消息",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 610217037,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-23T19:37:25Z",
+                    "owner": "di-sukharev",
+                    "repo": "opencommit",
+                    "stars": 7525
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "git工具-01",
+                  "description": "gptcommit 2.3k 用ChatGPT提交commit git prepare-commit-msg钩子，用于用GPT-3编写提交消息。有了这个工具，你可以很容易地生成清晰、全面和描述性的提交消息",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 588732058,
+                    "language": "Rust",
+                    "last_commit": "2026-04-19T09:44:40Z",
+                    "owner": "zurawiki",
+                    "repo": "gptcommit",
+                    "stars": 2418
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "github机器人",
+                  "description": "ChatGPT-ProBot 373 一个基于ChatGPT的GitHub机器人",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574332011,
+                    "language": "JavaScript",
+                    "last_commit": "2023-10-08T22:44:11Z",
+                    "owner": "oceanlvr",
+                    "repo": "ChatGPT-ProBot",
+                    "stars": 397
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "错误检测-01",
+                  "description": "wolverine 5.2k 使用Wolverine运行脚本，当它们崩溃时，GPT-4会编辑它们并解释错误所在。即使你有很多错误，它也会反复重新运行，直到它被修复。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615861000,
+                    "language": "Python",
+                    "last_commit": "2024-03-08T07:33:01Z",
+                    "owner": "biobootloader",
+                    "repo": "wolverine",
+                    "stars": 5071
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "错误检测-02",
+                  "description": "stackexplain 509 使用ChatGPT用简单的英语解释你的错误信息 用stackexplain命令运行pythohn脚本，并且自动检测错误给出正确的修复方法",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575748307,
+                    "language": "Python",
+                    "last_commit": "2024-12-20T22:03:43Z",
+                    "owner": "shobrook",
+                    "repo": "wut",
+                    "stars": 1424
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SQL客户端-01",
+                  "description": "sqlchat 3.8k SQL Chat是一个基于聊天的SQL客户端，使用自然语言询问数据库问题和查询数据库。 1.支持MySQL和PostgreSQL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614656648,
+                    "language": "TypeScript",
+                    "last_commit": "2026-04-21T03:03:56Z",
+                    "owner": "sqlchat",
+                    "repo": "sqlchat",
+                    "stars": 5844
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "SQL客户端-02",
+                  "description": "Chat2DB 13.7k 一款智能、通用的通用 SQL 客户端和数据库报告工具，集成了 ChatGPT 功能。 1.AI智能助手，支持自然语言到SQL转换、SQL到自然语言转换、SQL优化建议2.强大的扩展能力，目前支持MySQL、PostgreSQL、Oracle、SQLServer、ClickHouse、OceanBase、H2、SQLite等，未来将支持更多数据库",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 656227652,
+                    "language": "Java",
+                    "last_commit": "2026-08-24T12:11:42Z",
+                    "owner": "OtterMind",
+                    "repo": "Chat2DB",
+                    "stars": 28026
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "代码搜索引擎",
+                  "description": "bloop 8.6k bloop 是一个代码搜索引擎，它使用 GPT-4 来回答有关您的代码的问题。使用自然语言、正则表达式和过滤查询搜索本地和远程存储库 1.正则表达式搜索2.同步本地和Github仓库",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 576642715,
+                    "language": "Rust",
+                    "last_commit": "2024-12-04T17:39:21Z",
+                    "owner": "BloopAI",
+                    "repo": "bloop",
+                    "stars": 9499
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "代码对话",
+                  "description": "gpt-runner 322 与您的文件对话！管理和运行您的 AI 预设！ 1.与代码文件的对话 2.管理项目的 AI 预设",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 640476297,
+                    "language": "TypeScript",
+                    "last_commit": "2023-09-11T13:14:48Z",
+                    "owner": "nicepkg",
+                    "repo": "gpt-runner",
+                    "stars": 384
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "代码生成",
+                  "description": "aiac 3.3k 命令行的代码生成器 1.生成IaC2.生成docker、k8s配置3.生成CI/CD4.生成SQL",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575295397,
+                    "language": "Go",
+                    "last_commit": "2026-03-24T10:56:24Z",
+                    "owner": "gofireflyio",
+                    "repo": "aiac",
+                    "stars": 3786
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语言转换",
+                  "description": "ai-code-translator 3.8k 使用 AI 将代码从一种语言翻译成另一种语言。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 621621548,
+                    "language": "TypeScript",
+                    "last_commit": "2023-12-21T00:19:08Z",
+                    "owner": "mckaywrigley",
+                    "repo": "ai-code-translator",
+                    "stars": 4169
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "数据处理",
+                  "description": "pandas-ai 11.1k 它将生成式人工智能功能集成到Pandas中，使数据框架具有会话性。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631258918,
+                    "language": "Python",
+                    "last_commit": "2025-10-28T10:02:13Z",
+                    "owner": "sinaptik-ai",
+                    "repo": "pandas-ai",
+                    "stars": 23764
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-编程"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "视频总结",
+                  "description": "BibiGPT 5.0k 音视频内容一键总结：哔哩哔哩丨YouTube丨网页丨播客丨会议丨本地文件等 开发中：支持网页丨播客丨会议丨本地音视频文件等输入，Prompt 和输出端均在持续迭代中",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 606803328,
+                    "language": "TypeScript",
+                    "last_commit": "2026-05-04T12:07:02Z",
+                    "owner": "JimmyLv",
+                    "repo": "BibiGPT-v1",
+                    "stars": 6190
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "视频交谈",
+                  "description": "Ask-Anything 2.7k 具有视频理解功能的 ChatGPT！ 1.支持miniGPT4、StableLM 和 MOSS",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629922458,
+                    "language": "Python",
+                    "last_commit": "2026-07-17T10:31:09Z",
+                    "owner": "OpenGVLab",
+                    "repo": "Ask-Anything",
+                    "stars": 3346
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音-01",
+                  "description": "AudioGPT🔥 9.8k 理解和生成语音、音乐、声音和说话头 1.支持唱歌2.支持看图生成BGM3.生成音效",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614719201,
+                    "language": "Python",
+                    "last_commit": "2024-07-06T21:35:18Z",
+                    "owner": "AIGC-Audio",
+                    "repo": "AudioGPT",
+                    "stars": 10168
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音-02",
+                  "description": "speechgpt 2.7k SpeechGPT是一个允许您与ChatGPT语音谈话的web应用程序，口语练习 1.适配移动端2.支持超过100种语言3.语音陪练4.集成Azure的语音服务",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 620362812,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-11T12:18:16Z",
+                    "owner": "hahahumble",
+                    "repo": "speechgpt",
+                    "stars": 2752
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音-03",
+                  "description": "chat-with-gpt 2.3k 一个开源的ChatGPT语音应用程序 1.集成ElevenLabs的语音服务2.支持docker部署",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 610265797,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-24T17:16:12Z",
+                    "owner": "cogentapps",
+                    "repo": "chat-with-gpt",
+                    "stars": 2351
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音-04",
+                  "description": "polyglot 2.5k Polyglot是一款基于ChatGPT和Azure的语言练习桌面端应用程序。 1.多国语言口语练习2.智能语音合成3.智能对话功能",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614470292,
+                    "language": "TypeScript",
+                    "last_commit": "2025-09-03T09:45:40Z",
+                    "owner": "liou666",
+                    "repo": "polyglot",
+                    "stars": 2586
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-音视频"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "图表",
+                  "description": "chart-gpt 3.5k 基于文本输入构建图表的人工智能工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 631699700,
+                    "language": "TypeScript",
+                    "last_commit": "2025-06-16T20:17:49Z",
+                    "owner": "whoiskatrin",
+                    "repo": "chart-gpt",
+                    "stars": 3582
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AI可视化",
+                  "description": "SolidUI 139 AI生成可视化原型设计和编辑平台，支持2D，3D模型，结合LLM(Large Language Model) 快速编辑。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 535063290,
+                    "language": "TypeScript",
+                    "last_commit": "2024-01-27T17:56:40Z",
+                    "owner": "CloudOrc",
+                    "repo": "SolidUI",
+                    "stars": 677
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-图表"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "渗透测试工具",
+                  "description": "PentestGPT 6.4k PentestGPT 是一款由 GPT4 赋能的渗透测试工具。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 607013954,
+                    "language": "Python",
+                    "last_commit": "2026-07-14T12:58:31Z",
+                    "owner": "GreyDGL",
+                    "repo": "PentestGPT",
+                    "stars": 15044
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-测试"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "调教场景机器人-01",
+                  "description": "ai-anything 563 创建各种场景的对话机器人 1.写作助理2.代码解释器3.日报生成器等",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609872793,
+                    "language": "Vue",
+                    "last_commit": "2023-03-29T01:03:49Z",
+                    "owner": "KeJunMao",
+                    "repo": "ai-anything",
+                    "stars": 557
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "调教场景机器人-02",
+                  "description": "OpenGpt 3.9k 在几秒钟内创建自己的ChatGPT应用程序 1.创建各种场景的对话机器人，比如小红书、日报等",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609090479,
+                    "language": "TypeScript",
+                    "last_commit": "2025-06-07T08:45:14Z",
+                    "owner": "futantan",
+                    "repo": "OpenGpt",
+                    "stars": 3899
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "通用-01",
+                  "description": "Portal 1.7k 通过键盘快捷键将任何选定的文本发送到ChatGPT进行处理，然后将结果返回到用户的剪贴板或光标位置(实现打字机效果)，可以在任意软件上操作ChatGPT 1.任意软件划词翻译2.自定义提示语模板3.对话管理 && 对话图生成",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 619108007,
+                    "language": "TypeScript",
+                    "last_commit": "2023-04-25T12:54:17Z",
+                    "owner": "lxfater",
+                    "repo": "Portal",
+                    "stars": 1674
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-通用"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "房间设计",
+                  "description": "roomGPT 9.5k 上传一张你房间的照片，用人工智能生成你的梦想房间。 你只需要给你的房间拍一张照，或是房间的 3D 效果图，并将其上传，即可用 AI 生成对应的梦幻房间效果图。（严格来说属于绘画领域的）",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 604791960,
+                    "language": "TypeScript",
+                    "last_commit": "2024-04-20T12:17:17Z",
+                    "owner": "Nutlope",
+                    "repo": "roomGPT",
+                    "stars": 10671
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "结构知识",
+                  "description": "GraphGPT 4.2k 自然语言 → 结构知识 1.GraphGPT将非结构化的自然语言转换为知识图。传入您最喜欢的电影概要、维基百科页面上令人困惑的段落或视频文本，以生成实体及其关系的可视化图表。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 595751641,
+                    "language": "JavaScript",
+                    "last_commit": "2024-05-10T10:01:21Z",
+                    "owner": "varunshenoy",
+                    "repo": "GraphGPT",
+                    "stars": 4425
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "面试提示",
+                  "description": "cheetah 3.8k 使用GPT和Whisper辅助远程面试",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619312022,
+                    "language": "Swift",
+                    "last_commit": "2025-01-14T21:52:44Z",
+                    "owner": "leetcode-mafia",
+                    "repo": "cheetah",
+                    "stars": 4257
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "讲故事",
+                  "description": "ChineseAiDungeonChatGPT 1.4k 中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574385890,
+                    "language": "Python",
+                    "last_commit": "2023-03-27T10:37:49Z",
+                    "owner": "bupticybee",
+                    "repo": "ChineseAiDungeonChatGPT",
+                    "stars": 1403
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AR体验",
+                  "description": "ChatARKit 413 使用ChatGPT以自然语言创建AR体验 1.基于Sketchfab-3D模型网站",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 580667327,
+                    "language": "C",
+                    "last_commit": "2023-03-31T02:24:24Z",
+                    "owner": "trzy",
+                    "repo": "ChatARKit",
+                    "stars": 442
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Apple健康",
+                  "description": "HealthGPT 1.6k 使用自然语言💬🩺查询Apple Health数据 1.与 Apple Health 应用程序集成以确保无缝地使用第一方数据2.开箱即用支持查询睡眠、步数、活跃能量、运动分钟数、心率和体重。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 629207037,
+                    "language": "Swift",
+                    "last_commit": "2026-07-14T00:25:45Z",
+                    "owner": "StanfordBDHG",
+                    "repo": "HealthGPT",
+                    "stars": 1964
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "AI 搜索",
+                  "description": "MemFree 141 Hybrid AI 搜索引擎 1.同时对您的个人知识库（如书签、笔记、文档等）和互联网进行搜索 2.一键 Chrome 书签索引 3. 前后端一键部署",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 815403287,
+                    "language": "TypeScript",
+                    "last_commit": "2026-07-06T12:02:53Z",
+                    "owner": "memfreeme",
+                    "repo": "memfree",
+                    "stars": 1507
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT工具-其他"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT工具"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "ChatGPT检索插件",
+                  "description": "chatgpt-retrieval-plugin 20.9k ChatGPT 检索插件让您可以通过使用日常语言提问来轻松搜索和查找个人或工作文档。 可以对个人或组织文档进行语义搜索和检索。它允许用户通过用自然语言提问或表达需求，从他们的数据源（如文件、笔记或电子邮件）中获取最相关的文档片段。企业可以使用此插件通过 ChatGPT 向员工提供内部文档。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 617798408,
+                    "language": "Python",
+                    "last_commit": "2024-07-04T22:00:16Z",
+                    "owner": "openai",
+                    "repo": "chatgpt-retrieval-plugin",
+                    "stars": 21206
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT插件-官方"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "通用插件-01",
+                  "description": "chatGPTBox 9.6k 将ChatGPT深度集成到您的浏览器中 1.在任何页面随时呼出聊天对话框2.支持手机等移动设备3.通过右键菜单总结任意页面4.框选工具与右键菜单,执行各种你的需求,如翻译,总结,润色,情感分析,段落划分,代码解释,问询5.支持reddit, quora, youtube, github, gitlab, stackoverflow, zhihu, bilibili等网站",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 614258120,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-23T08:15:34Z",
+                    "owner": "ChatGPTBox-dev",
+                    "repo": "chatGPTBox",
+                    "stars": 10751
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "通用插件-02",
+                  "description": "browser-extension 780 使用GPT-4自动化你的浏览器 1. 支持github、Netflix、OpenAI、calendar 等网站自动化操作",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 619909200,
+                    "language": "TypeScript",
+                    "last_commit": "2025-01-15T23:52:14Z",
+                    "owner": "TaxyAI",
+                    "repo": "browser-extension",
+                    "stars": 1275
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "搜索插件",
+                  "description": "chatgpt-google-extension 13.3k 在Google搜索结果旁边显示ChatGPT响应 1. 右侧显示ChatGPT搜索内容2.自定义触发模式3.支持切换语言",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574116196,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-14T17:49:27Z",
+                    "owner": "wong2",
+                    "repo": "chatgpt-google-extension",
+                    "stars": 13049
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "文本框插件",
+                  "description": "chatgpt-chrome-extension 2.8k 将ChatGPT集成到互联网上的每个文本框中! 1.在文本框中右键Ask ChatGPT使用2.用它来写推特，修改电子邮件，修复代码错误，或其他任何你需要的东西",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574162425,
+                    "language": "JavaScript",
+                    "last_commit": "2023-05-30T05:58:55Z",
+                    "owner": "gragland",
+                    "repo": "chatgpt-chrome-extension",
+                    "stars": 2963
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "文本框插件-推特版",
+                  "description": "tweetGPT 651 ChatGPT浏览器插件-推特网页 1.在推特网页版中生成推文和回复",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 575837141,
+                    "language": "TypeScript",
+                    "last_commit": "2024-03-12T03:07:19Z",
+                    "owner": "yaroslav-n",
+                    "repo": "tweetGPT",
+                    "stars": 663
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "翻译插件-01",
+                  "description": "openai-translator 22.8k 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。 1.划词翻译",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 609416865,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-23T18:50:38Z",
+                    "owner": "nextai-translator",
+                    "repo": "nextai-translator",
+                    "stars": 24974
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "翻译插件-02",
+                  "description": "immersive-translate 13.3k 沉浸式双语网页翻译扩展。 1.双语显示，中英文对照。2.针对常见主流网站进行定制优化，如 Twitter，Reddit，Discord, Gmail, Telegram, Youtube, Hacker News 等。3.支持 PDF 文件，EPUB 电子书双语翻译，制作与导出。4.支持移动端",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575401013,
+                    "language": null,
+                    "last_commit": "2026-08-21T11:59:20Z",
+                    "owner": "immersive-translate",
+                    "repo": "immersive-translate",
+                    "stars": 18583
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "下载插件",
+                  "description": "ChatGPT-pdf 1.5k 一个Chrome扩展下载你的聊天gpt历史PNG, PDF或可分享的链接。 1.下载chatgpt官网聊天历史PNG",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574183068,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-12T23:07:45Z",
+                    "owner": "liady",
+                    "repo": "ChatGPT-pdf",
+                    "stars": 1479
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChatGPT增强插件-01",
+                  "description": "chatgpt-advanced 6.4k 一个浏览器扩展，增强您的ChatGPT提示与网络结果。 1.这个浏览器扩展为ChatGPT添加了web访问功能。从聊天机器人获得更多相关和最新的答案!",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573759422,
+                    "language": "TypeScript",
+                    "last_commit": "2024-08-13T16:34:44Z",
+                    "owner": "interstellard",
+                    "repo": "chatgpt-advanced",
+                    "stars": 6444
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ChatGPT增强插件-02",
+                  "description": "superpower-chatgpt 1.4k 一个浏览器扩展，添加缺少的功能，如文件夹，搜索和社区提示ChatGPT 1.支持文件夹和排序2.搜索高亮",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 628103570,
+                    "language": "JavaScript",
+                    "last_commit": "2024-06-18T22:16:25Z",
+                    "owner": "saeedezzati",
+                    "repo": "superpower-chatgpt",
+                    "stars": 1701
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音插件-01",
+                  "description": "talk-to-chatgpt 1.9k 用你的声音与ChatGPT AI交谈，并通过声音听它的答案。 1.和ChatGPT语音交流!2.支持多种语言",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576098787,
+                    "language": "JavaScript",
+                    "last_commit": "2024-05-19T11:08:59Z",
+                    "owner": "C-Nedelcu",
+                    "repo": "talk-to-chatgpt",
+                    "stars": 1928
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "语音插件-02",
+                  "description": "assistant-chat-gpt 221 嵌入ChatGPT作为免提语音助手。 1.ChassistantGPT支持60多种语言和方言。选择您的母语和自定义触发短语(可在选项卡中配置)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576467752,
+                    "language": "JavaScript",
+                    "last_commit": "2023-04-04T16:33:48Z",
+                    "owner": "idosal",
+                    "repo": "assistant-chat-gpt",
+                    "stars": 240
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "分享插件",
+                  "description": "sharegpt 1.7k 轻松地共享ChatGPT对话的永久链接到https://sharegpt.com/ 1.一键分享自己ChatGPT对话到https://sharegpt.com",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574222836,
+                    "language": "TypeScript",
+                    "last_commit": "2024-09-25T19:21:08Z",
+                    "owner": "domeccleston",
+                    "repo": "sharegpt",
+                    "stars": 1756
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "阅读插件",
+                  "description": "chatgpt-arxiv-extension 583 arxiv论文使用ChatGPT 1.能帮你读arxiv论文，在一些地方给出注解",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 598147996,
+                    "language": "TypeScript",
+                    "last_commit": "2024-07-03T03:07:33Z",
+                    "owner": "hunkimForks",
+                    "repo": "chatgpt-arxiv-extension",
+                    "stars": 587
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "总结插件-01",
+                  "description": "summarize.site 720 使用OpenAI ChatGPT总结网页",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574618850,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-13T07:12:06Z",
+                    "owner": "clmnin",
+                    "repo": "summarize.site",
+                    "stars": 755
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "总结插件-02",
+                  "description": "chatgpt-google-summary-extension 1.6k 它可以在Google搜索和YouTube旁边显示来自ChatGPT的摘要，还支持 Yahoo、Github、Bing等。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 598375636,
+                    "language": "TypeScript",
+                    "last_commit": "2024-10-14T09:21:10Z",
+                    "owner": "sparticleinc",
+                    "repo": "chatgpt-google-summary-extension",
+                    "stars": 2059
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "总结插件-03",
+                  "description": "WebPilot 1.7k Webpilot是一个免费、开源的“网络副驾驶”，可以让您与网页进行自由形式的对话，或与其他用户进行自动争论。 1. 总结网页内容。 2. 可以自定义指令，对所选网页内容进行任何提问。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 607671864,
+                    "language": "Vue",
+                    "last_commit": "2026-08-18T18:03:48Z",
+                    "owner": "webpilot-ai",
+                    "repo": "Webpilot",
+                    "stars": 1856
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "总结插件-YouTube视频版",
+                  "description": "YouTube_Summary_with_ChatGPT 754 通过OpenAI的ChatGPT人工智能技术，你可以获得YouTube视频文本和视频摘要。 1.一键总结YouTube视频内容",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 579355393,
+                    "language": "JavaScript",
+                    "last_commit": "2023-01-11T06:19:32Z",
+                    "owner": "kazuki-sf",
+                    "repo": "YouTube_Summary_with_ChatGPT",
+                    "stars": 865
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT插件-浏览器"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "编辑器-vscode插件",
+                  "description": "chatgpt-vscode 4.9k 一个允许你使用ChatGPT的VSCode扩展 1.使用编辑器中的代码片段通过侧栏中的输入框查询ChatGPT2.右键单击代码选择并运行其中一个上下文菜单快捷方式3.在编辑器旁边的面板中查看ChatGPT的响应",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573941980,
+                    "language": "TypeScript",
+                    "last_commit": "2023-09-29T18:27:16Z",
+                    "owner": "mpociot",
+                    "repo": "chatgpt-vscode",
+                    "stars": 4925
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "编辑器-Neovim插件",
+                  "description": "ChatGPT.nvim 3.4k 用于与OpenAI GPT-3聊天机器人交互的Neovim插件 1.命令打开交互窗口2.支持Awesome ChatGPT Prompts指令",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 576696753,
+                    "language": "Lua",
+                    "last_commit": "2026-01-13T09:57:07Z",
+                    "owner": "jackMort",
+                    "repo": "ChatGPT.nvim",
+                    "stars": 3998
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "编辑器-IDA Pro插件",
+                  "description": "Gepetto 2.7k 一个接入了ChatGPT接口的IDA Pro插件 1.支持解释函数2.支持重命名变量",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 574156195,
+                    "language": "Python",
+                    "last_commit": "2026-08-15T17:09:38Z",
+                    "owner": "JusticeRage",
+                    "repo": "Gepetto",
+                    "stars": 3462
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "编辑器-JetBrains插件",
+                  "description": "JetBrains-插件 991 支持ChatGPT在JetBrains系列IDE上运行的一款插件",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 575895729,
+                    "language": "Java",
+                    "last_commit": "2024-10-10T07:25:11Z",
+                    "owner": "obiscr",
+                    "repo": "ChatGPT",
+                    "stars": 1059
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "编辑器-intellij插件",
+                  "description": "intellij-chatgpt 137 一个将ChatGPT和其他第三方镜像网站整合到JetBrains IDEs 的插件。 1.集成免费的第三方镜像网站，并且更新方便。",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 575907255,
+                    "language": "Java",
+                    "last_commit": "2023-03-30T15:19:01Z",
+                    "owner": "LiLittleCat",
+                    "repo": "intellij-chatgpt",
+                    "stars": 137
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "效率工具-raycast插件",
+                  "description": "chatgpt-raycast 559 一个raycast的ChatGPT插件 1.使用Mac快捷键直接唤起ChatGPT进行对话2.自定义对话指令",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 573840205,
+                    "language": "TypeScript",
+                    "last_commit": "2024-05-02T12:06:50Z",
+                    "owner": "abielzulio",
+                    "repo": "chatgpt-raycast",
+                    "stars": 613
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "谷歌文档插件",
+                  "description": "docGPT 653 ChatGPT直接在谷歌文档作为编辑器插件 1.ChatGPT直接集成到谷歌Docs中2.选中doc一键发送给chatgpt",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 574289156,
+                    "language": "JavaScript",
+                    "last_commit": "2023-06-26T20:17:56Z",
+                    "owner": "cesarhuret",
+                    "repo": "docGPT",
+                    "stars": 670
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kubernetes插件-01",
+                  "description": "kubernetes-chatgpt-bot 921 使用ChatGPT解决Kubernetes问题 1.向ChatGPT直接发生Prometheus警报询问如何修复告警2.依赖可观测性神器robusta",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 587275399,
+                    "language": "Python",
+                    "last_commit": "2024-11-21T10:01:31Z",
+                    "owner": "robusta-dev",
+                    "repo": "kubernetes-chatgpt-bot",
+                    "stars": 916
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Kubernetes插件-02",
+                  "description": "kubectl-ai 986 这个项目是一个kubectl插件，使用OpenAI GPT生成和应用Kubernetes清单 1.用自然语言生成Kubernetes配置",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 615891862,
+                    "language": "Go",
+                    "last_commit": "2025-01-27T22:00:14Z",
+                    "owner": "sozercan",
+                    "repo": "kubectl-ai",
+                    "stars": 1196
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "github插件-01",
+                  "description": "ChatGPT-CodeReview 3.6k github的代码审查机器人 1.让ChatGPT自动reviewCode2.让chatgpt检查你的PR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 600450326,
+                    "language": "JavaScript",
+                    "last_commit": "2026-08-10T02:55:09Z",
+                    "owner": "anc95",
+                    "repo": "ChatGPT-CodeReview",
+                    "stars": 4456
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "github插件-02",
+                  "description": "chatgpt-action 559 github的codeReview插件 1.让ChatGPT自动reviewCode2.让chatgpt检查你的PR",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 575345949,
+                    "language": "JavaScript",
+                    "last_commit": "2023-09-09T18:16:11Z",
+                    "owner": "kxxt",
+                    "repo": "chatgpt-action",
+                    "stars": 581
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "小爱插件",
+                  "description": "xiaogpt 5.3k 在小爱音响上接入ChatGPT 1.使用小米AI扬声器播放ChatGPT",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 602366280,
+                    "language": "Python",
+                    "last_commit": "2026-02-24T08:25:26Z",
+                    "owner": "yihong0618",
+                    "repo": "xiaogpt",
+                    "stars": 6900
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "3D软件Blender插件",
+                  "description": "BlenderGPT 4.2k 在Blender上接入ChatGPT 1.在只需要输入文本，即可快速构建3D模型",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 616992960,
+                    "language": "Python",
+                    "last_commit": "2024-06-05T08:14:18Z",
+                    "owner": "gd3kr",
+                    "repo": "BlenderGPT",
+                    "stars": 4974
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Siri插件",
+                  "description": "ChatGPT-Siri 3.5k 通过 Siri 启动「快捷指令」连接 ChatGPT API，让 Siri 变身 AI 聊天助手 1.支持连续对话2.配置系统prompt3.保存聊天记录",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 606790323,
+                    "language": null,
+                    "last_commit": "2026-02-27T11:53:03Z",
+                    "owner": "Yue-Yang",
+                    "repo": "ChatGPT-Siri",
+                    "stars": 3652
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GPT插件-第三方应用"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT插件"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gpt4all",
+              "description": "64.9k 一个聊天机器人接受了大量干净的助手数据的训练，包括代码、故事和对话 1. 本地训练，调教",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 619959033,
+                "language": "C++",
+                "last_commit": "2025-05-27T20:05:19Z",
+                "owner": "nomic-ai",
+                "repo": "gpt4all",
+                "stars": 77393
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gpt4all-ui",
+              "description": "3.9k gpt4all的ui界面 1. 使用ui界面本地训练，调教，使用",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624516901,
+                "language": "Python",
+                "last_commit": "2026-08-13T09:10:26Z",
+                "owner": "ParisNeo",
+                "repo": "lollms-webui",
+                "stars": 4783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Open-Assistant",
+              "description": "36.7k OpenAssistant是一个基于聊天的助手，可以理解任务，可以与第三方系统交互，并动态检索信息。 Open Assistant 是一个旨在让每个人都能访问基于聊天的大型语言模型的项目。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577603990,
+                "language": "Python",
+                "last_commit": "2024-08-17T01:55:35Z",
+                "owner": "LAION-AI",
+                "repo": "Open-Assistant",
+                "stars": 37406
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stanford_alpaca",
+              "description": "28.9k 斯坦福的羊驼模型（羊驼）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 612427246,
+                "language": "Python",
+                "last_commit": "2024-07-17T09:43:05Z",
+                "owner": "tatsu-lab",
+                "repo": "stanford_alpaca",
+                "stars": 30246
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DeepSpeed Chat",
+              "description": "32.9k 微软开源的一键式RLHF训练，让你的类ChatGPT千亿大模型提速省钱15倍，帮助用户轻松训练类ChatGPT等大语言模型，人人都有望拥有专属ChatGPT。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 235860204,
+                "language": "Python",
+                "last_commit": "2026-08-24T10:36:36Z",
+                "owner": "deepspeedai",
+                "repo": "DeepSpeed",
+                "stars": 42985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGLM-6B",
+              "description": "39.4k 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型 1.62 亿参数2.用户可以在消费级的显卡上进行本地部署（INT4 量化级别下最低只需 6GB 显存）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613349035,
+                "language": "Python",
+                "last_commit": "2024-06-27T04:05:25Z",
+                "owner": "zai-org",
+                "repo": "ChatGLM-6B",
+                "stars": 40984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGLM2-6B",
+              "description": "15.5k 清华大学研发的产品，ChatGLM-6B 是一个开源的、支持中英双语的对话语言模型V2版本 ChatGLM2-6B 在 MMLU（+23%）、CEval（+33%）、GSM8K（+571%） 、BBH（+60%）等数据集上的性能取得了大幅度的提升",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 657895120,
+                "language": "Python",
+                "last_commit": "2024-06-27T04:05:08Z",
+                "owner": "zai-org",
+                "repo": "ChatGLM2-6B",
+                "stars": 15528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minGPT",
+              "description": "18.9k karpathy大神发布的一个 OpenAI GPT(生成预训练转换器)训练的最小 PyTorch 实现，代码十分简洁明了，适合用于动手学习 GPT 模型。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 288108533,
+                "language": "Python",
+                "last_commit": "2024-08-15T04:09:40Z",
+                "owner": "karpathy",
+                "repo": "minGPT",
+                "stars": 24829
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FastChat",
+              "description": "34.4k 一个用于训练、服务和评估基于大型语言模型的聊天机器人的开放平台。(小羊驼) 1.斯坦福联手CMU、UC伯克利等机构的学者再次发布了130亿参数模型骆马（Vicuna），仅需300美元就能实现ChatGPT 90%的性能。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615882673,
+                "language": "Python",
+                "last_commit": "2026-05-01T00:25:53Z",
+                "owner": "lm-sys",
+                "repo": "FastChat",
+                "stars": 39524
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MiniGPT-4",
+              "description": "24.9k 增强视觉语言理解（识图）与先进的大型语言模型 1.识别图片，并且进行对话",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628419800,
+                "language": "Python",
+                "last_commit": "2024-09-02T09:07:21Z",
+                "owner": "Vision-CAIR",
+                "repo": "MiniGPT-4",
+                "stars": 25627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alpaca-lora",
+              "description": "18.2k 轻量级 ChatGPT 的开源实现，小羊驼-lora 1. 使用了LoRA轻量级模型2.只需要训练很小一部分参数就可以获得媲美 Standford Alpaca 模型的效果3.要RTX 4090才能玩",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 613591358,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-07-29T13:37:49Z",
+                "owner": "tloen",
+                "repo": "alpaca-lora",
+                "stars": 18908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FreedomGPT",
+              "description": "2.6k 一个基于React的程序，它使用基于聊天的界面(基于Alpaca Lora)在Mac和Windows上本地执行FreedomGPT LLM(离线和私有)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617048769,
+                "language": "TypeScript",
+                "last_commit": "2024-06-13T18:52:39Z",
+                "owner": "ohmplatform",
+                "repo": "FreedomGPT",
+                "stars": 2669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stableLM",
+              "description": "15.9k Stable Diffusion的初创公司Stability AI发布并开源该团队训练的大语言模型StableLM 今日发布的StableLM在更大版本的开源数据集The Pile上进行训练，该数据集包含来自各种来源的信息，包括维基百科（Wikipedia）、问答网站Stack Exchange和生物医学数据库PubMed，该数据集的规模是The Pile的三倍，包含1.5万亿个tokens（字符），其超大规模使得StableLM在会话和编码上具有超高性能，但是它目前只有30-70亿个参数，而GPT-3有1750亿个参数。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630023030,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-04-08T19:26:02Z",
+                "owner": "Stability-AI",
+                "repo": "StableLM",
+                "stars": 15685
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenChatKit",
+              "description": "9.0k 前OpenAI团队打造，OpenChatKit提供了一个强大的开源基础，可以为各种应用程序创建专门的和通用的聊天机器人。 1.200亿参数的语言模型2.用户只需准备自己的数据集，并使用OpenChatKit的配方来微调模型即可获得高精度的结果。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 608892940,
+                "language": "Python",
+                "last_commit": "2024-04-09T19:09:58Z",
+                "owner": "togethercomputer",
+                "repo": "OpenChatKit",
+                "stars": 8984
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "text-generation-webui",
+              "description": "36.6k 一个用于运行大型语言模型(如GPT-J 6B, OPT, GALACTICA, LLaMA和Pygmalion)的梯度web UI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 580642043,
+                "language": "Python",
+                "last_commit": "2026-08-17T17:38:16Z",
+                "owner": "oobabooga",
+                "repo": "textgen",
+                "stars": 47569
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PaLM-rlhf-pytorch",
+              "description": "7.6k 在PaLM架构之上实现RLHF(带人类反馈的强化学习)。基本上是ChatGPT，但有PaLM。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576380523,
+                "language": "Python",
+                "last_commit": "2026-07-27T23:39:41Z",
+                "owner": "lucidrains",
+                "repo": "PaLM-rlhf-pytorch",
+                "stars": 7867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatRWKV",
+              "description": "9.3k ChatRWKV是对标ChatGPT的开源项目，希望做\"大规模语言模型的Stable Diffusion\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588477692,
+                "language": "Python",
+                "last_commit": "2026-07-19T19:09:29Z",
+                "owner": "BlinkDL",
+                "repo": "ChatRWKV",
+                "stars": 9498
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "dolly",
+              "description": "10.8k Databricks的Dolly是一个在Databricks机器学习平台上训练的大型语言模型 1.Dolly 使用 Alpaca 数据，对两年前的开源EleutherAI 60亿参数模型进行微调",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618511002,
+                "language": "Python",
+                "last_commit": "2023-06-30T18:36:16Z",
+                "owner": "databrickslabs",
+                "repo": "dolly",
+                "stars": 10804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chinese-LLaMA-Alpaca",
+              "description": "17.4k 中文LLaMA&Alpaca大语言模型+本地部署 1.🚀 开源了经过中文文本数据预训练的中文LLaMA大模型🚀 开源了进一步经过指令精调的中文Alpaca大模型🚀 快速地使用笔记本电脑（个人PC）本地部署和体验量化版大模型",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 614325365,
+                "language": "Python",
+                "last_commit": "2026-04-19T00:58:05Z",
+                "owner": "ymcui",
+                "repo": "Chinese-LLaMA-Alpaca",
+                "stars": 18932
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MOSS",
+              "description": "11.8k 国内首个类 ChatGPT 模型：复旦大学 MOSS，RTX 3090 显卡可运行",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 628296906,
+                "language": "Python",
+                "last_commit": "2026-05-27T13:16:14Z",
+                "owner": "OpenMOSS",
+                "repo": "MOSS",
+                "stars": 12225
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BELLE",
+              "description": "7.6k 开源中文对话大模型 1.现阶段本项目基于一些开源预训练大语言模型（如BLOOM、LAMMA等），针对中文做了优化，模型调优仅使用由ChatGPT生产的数据（不包含任何其他数据）。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 615256902,
+                "language": "HTML",
+                "last_commit": "2024-10-16T11:38:59Z",
+                "owner": "LianjiaTech",
+                "repo": "BELLE",
+                "stars": 8276
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "trlx",
+              "description": "4.3k 一个通过人类反馈强化学习(RLHF)对语言模型进行分布式训练的repo 1.支持高达20b参数的在线RL和更大模型的离线RL。基本上就是你用来微调GPT到ChatGPT的项目",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 545104023,
+                "language": "Python",
+                "last_commit": "2024-01-08T20:07:19Z",
+                "owner": "CarperAI",
+                "repo": "trlx",
+                "stars": 4754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lit-llama",
+              "description": "5.8k Lightning-AI 基于nanoGPT的LLaMA语言模型的实现。支持量化，LoRA微调，预训练。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617504730,
+                "language": "Python",
+                "last_commit": "2025-07-01T16:31:39Z",
+                "owner": "Lightning-AI",
+                "repo": "lit-llama",
+                "stars": 6085
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLaMA-Adapter",
+              "description": "72 高效微调一个聊天机器人：LLaMA-Adapter🚀 1.LLaMA在1小时内按照指示和1.2M参数进行微调",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 653537620,
+                "language": null,
+                "last_commit": "2023-06-14T08:45:33Z",
+                "owner": "ZrrSkywalker",
+                "repo": "LLaMA-Adapter",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KoboldAI-Client",
+              "description": "3.4k KoboldAI-你通往GPT写作的大门 这是一个基于浏览器的前端I -辅助写作与多个本地和远程I模型",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 363765247,
+                "language": "Python",
+                "last_commit": "2025-01-16T17:01:49Z",
+                "owner": "KoboldAI",
+                "repo": "KoboldAI-Client",
+                "stars": 3940
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatYuan",
+              "description": "1.9k 国产的支持中英双语的功能型对话语言大模型：ChatYuan 1.ChatYuan-large-v2是ChatYuan系列中以轻量化实现高质量效果的模型之一，用户可以在消费级显卡、 PC甚至手机上进行推理（INT4 最低只需 400M ）。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 588565917,
+                "language": "Python",
+                "last_commit": "2023-06-16T13:36:35Z",
+                "owner": "clue-ai",
+                "repo": "ChatYuan",
+                "stars": 1863
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wenda",
+              "description": "6.1k 闻达：一个大规模语言模型调用平台 1.目前支持模型：chatGLM-6B、chatRWKV、chatYuan。2.知识库自动查找3.支持参数在线调整",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618784510,
+                "language": "JavaScript",
+                "last_commit": "2025-01-23T12:55:35Z",
+                "owner": "wenda-LLM",
+                "repo": "wenda",
+                "stars": 6159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "minChatGPT",
+              "description": "198 微型版ChatGPT，一个将语言模型与类似ChatGPT的RLHF对齐的最小示例",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 601947829,
+                "language": "Python",
+                "last_commit": "2023-09-26T06:22:13Z",
+                "owner": "ethanyanjiali",
+                "repo": "minChatGPT",
+                "stars": 226
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPT开源平替机器人"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "生物医学机器人",
+              "description": "BioGPT 4.2k 微软团队推出的基于生物医学研究文献的大型语言模型 1.提取诸如基因或疾病的生物医学实体2.可以回答生物医学问题的聊天机器人3.生物医学领域的总结和自动完成",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 524871042,
+                "language": "Python",
+                "last_commit": "2024-07-25T10:33:53Z",
+                "owner": "microsoft",
+                "repo": "BioGPT",
+                "stars": 4487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "医生机器人",
+              "description": "ChatDoctor 3.4k 利用医学领域知识在LLaMA模型基础上改进的医学聊天模型 1.数据训练来自HealthCareMagic.com的20万次病人和医生之间的真实对话、来自icliniq.com的26k个病人和医生之间的真实对话",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 617219182,
+                "language": "Python",
+                "last_commit": "2024-05-17T22:24:31Z",
+                "owner": "Kent0n-Li",
+                "repo": "ChatDoctor",
+                "stars": 3631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "法律机器人",
+              "description": "law-cn-ai🔥 4.8k AI 法律助手 1.基于GPT，使用embeddings向量数据库做的固定领域机器人",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 630755965,
+                "language": "MDX",
+                "last_commit": "2023-06-23T08:20:17Z",
+                "owner": "lvwzhen",
+                "repo": "law-cn-ai",
+                "stars": 4908
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "专业领域机器人"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-chatgpt-prompts",
+              "description": "104.1k ChatGPT指令合集，以更好地使用ChatGPT 各种场景对话调教",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 574523116,
+                "language": "HTML",
+                "last_commit": "2026-08-24T03:24:40Z",
+                "owner": "f",
+                "repo": "prompts.chat",
+                "stars": 167848
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-chatgpt-prompts-zh",
+              "description": "29.9k ChatGPT指令合集（中文版），以更好地使用ChatGPT 各种场景对话调教（中文版）",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577116112,
+                "language": null,
+                "last_commit": "2026-04-28T10:52:14Z",
+                "owner": "PlexPt",
+                "repo": "awesome-chatgpt-prompts-zh",
+                "stars": 61784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Prompt-Engineering-Guide",
+              "description": "23.8k 指令工程师 教你如何调教、训练AI",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 579082810,
+                "language": "MDX",
+                "last_commit": "2026-03-11T20:09:13Z",
+                "owner": "dair-ai",
+                "repo": "Prompt-Engineering-Guide",
+                "stars": 77749
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-Shortcut",
+              "description": "3.3k 让生产力加倍的 ChatGPT 快捷指令 按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 606031950,
+                "language": "TypeScript",
+                "last_commit": "2026-08-20T16:14:06Z",
+                "owner": "rockbenben",
+                "repo": "ChatGPT-Shortcut",
+                "stars": 8707
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT_DAN",
+              "description": "1.5k ChatGPT\"越狱\"指令",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 602005115,
+                "language": null,
+                "last_commit": "2026-03-02T17:44:09Z",
+                "owner": "0xk1h0",
+                "repo": "ChatGPT_DAN",
+                "stars": 12321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-ChatGPT-prompts-ZH_CN",
+              "description": "1.4k 如何将ChatGPT调教成一只猫娘",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 576921601,
+                "language": null,
+                "last_commit": "2023-07-18T15:57:44Z",
+                "owner": "L1Xu4n",
+                "repo": "Awesome-ChatGPT-prompts-ZH_CN",
+                "stars": 3177
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ChatGPT-Data-Science-Prompts",
+              "description": "562 ChatGPT\"数据科学\"指令",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 586758655,
+                "language": null,
+                "last_commit": "2023-12-28T15:18:28Z",
+                "owner": "travistangvh",
+                "repo": "ChatGPT-Data-Science-Prompts",
+                "stars": 1619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "The-Art-of-Asking-ChatGPT",
+              "description": "375 如何向 ChatGPT 提问以获得高质量答案：提示技巧工程完全指南",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 616598798,
+                "language": null,
+                "last_commit": "2023-03-21T04:43:23Z",
+                "owner": "ORDINAND",
+                "repo": "The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique",
+                "stars": 1007
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Prompt对话指令"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-gpts",
+              "description": "868 GPTs 收集社区创建的所有 GPTs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 717123449,
+                "language": null,
+                "last_commit": "2024-04-21T19:47:16Z",
+                "owner": "taranjeet",
+                "repo": "awesome-gpts",
+                "stars": 1366
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome-GPTs",
+              "description": "1.5k GPTs 精选的超棒 GPT 👍 列表",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 716583109,
+                "language": null,
+                "last_commit": "2024-11-03T00:50:20Z",
+                "owner": "ai-boost",
+                "repo": "Awesome-GPTs",
+                "stars": 3404
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gpt-crawler",
+              "description": "3.7k 抓取网站以生成知识文件，以便从 URL 创建自己的自定义 GPT 可以抓取各种网页上的技术文档，上传到gpts",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 718379614,
+                "language": "TypeScript",
+                "last_commit": "2025-07-07T15:35:16Z",
+                "owner": "BuilderIO",
+                "repo": "gpt-crawler",
+                "stars": 22395
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPTs🔥🔥🔥"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Reverse ChatGPT",
+              "description": "23.5k ChatGPT逆向工程 提取ChatGPT的API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 573819845,
+                "language": "Python",
+                "last_commit": "2023-08-02T06:02:10Z",
+                "owner": "acheong08",
+                "repo": "ChatGPT",
+                "stars": 27900
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Reverse EdgeGPT",
+              "description": "5.3k NewBing逆向工程 提取NewBing的API",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 599662622,
+                "language": "Python",
+                "last_commit": "2023-08-03T13:37:26Z",
+                "owner": "acheong08",
+                "repo": "EdgeGPT",
+                "stars": 7851
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "langchain",
+              "description": "2.3k 开发自己的 ChatGPT 应用：langchain 它可以帮助开发者将LLM与其他计算或知识源结合起来，创建更强大的应用程序。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 552661142,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:18:11Z",
+                "owner": "langchain-ai",
+                "repo": "langchain",
+                "stars": 144894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Embedchain",
+              "description": "3.9k 用于在数据集上创建类似 ChatGPT 的机器人的框架 只需几行代码即可在任何数据集上轻松创建 LLM 支持的机器人。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 656099147,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:51:31Z",
+                "owner": "mem0ai",
+                "repo": "mem0",
+                "stars": 63946
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KeepChatGPT",
+              "description": "1.8k 让我们在使用ChatGPT过程中更高效、更顺畅，完美解决ChatGPT网络错误，不再频繁地刷新网页 解决了这几类报错: (1) NetworkError when attempting to fetch resource. (2) Something went wrong. If this issue persists please contact us through our help center at help.openai.com. (3) This content may violate our content policy. (4) Conversation not found.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620458878,
+                "language": "JavaScript",
+                "last_commit": "2026-07-20T18:45:12Z",
+                "owner": "xcanwin",
+                "repo": "KeepChatGPT",
+                "stars": 14901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPTCache",
+              "description": "914 使用向量数据库技术为各种 LLM 应用提供一层语义缓存，能够缓存 LLM 响应，从而显著减少检索数据所需的时间、降低 API 调用开销、提升应用可扩展性 1.plugin类型设计，多个模块支持自定义，如embedding、存储、相似评估、请求前后处理 2.适配openai多个接口，如ChatComplete/Complete等，同时也集成至LangChain 3.请求中多个参数，可满足多个不同场景，如缓存开启关闭、是否进行相似搜索、多级cache等",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 618276831,
+                "language": "Python",
+                "last_commit": "2025-07-11T09:04:36Z",
+                "owner": "zilliztech",
+                "repo": "GPTCache",
+                "stars": 8168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gpt4free",
+              "description": "5.5k 此存储库为 GPT-4/3.5 提供反向工程的第三方 API，这些 API 来自各种网站。 1.比如poe.com、writesonic.com等第三方网站",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620936652,
+                "language": "Python",
+                "last_commit": "2026-08-21T13:53:28Z",
+                "owner": "xtekky",
+                "repo": "gpt4free",
+                "stars": 66594
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "国内镜像站收集-01",
+              "description": "8k 收集国内免费ChatGPT镜像，替代品收录",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 609721722,
+                "language": null,
+                "last_commit": "2026-04-26T13:26:59Z",
+                "owner": "xx025",
+                "repo": "carrot",
+                "stars": 17170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "国内镜像站收集-02",
+              "description": "26 收集国内免费ChatGPT镜像，替代品收录",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 620883044,
+                "language": null,
+                "last_commit": "2023-04-27T10:11:05Z",
+                "owner": "GentleLemon",
+                "repo": "ChatGPT-Anything",
+                "stars": 264
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "其他（平台、逆向工程）"
+        }
+      ],
+      "title": "精选开源项目合集"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "ChatGPT 中文指南",
           "description": null,
@@ -15,7 +2943,7 @@
             "last_commit": "2026-07-03T22:06:36Z",
             "owner": "EmbraceAGI",
             "repo": "awesome-chatgpt-zh",
-            "stars": 11653
+            "stars": 11654
           }
         },
         {
@@ -53,7 +2981,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T06:26:11.196Z",
+    "last_updated": "2026-08-24T13:57:31.208Z",
     "original_repository": "EwingYangs/awesome-open-gpt",
     "original_repository_id": 622980722,
     "original_repository_sha": "a843e44f2bbe7b1364af05995eb3aa14696a2c6f",
