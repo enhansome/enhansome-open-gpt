@@ -12,12 +12,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "❄️ ChatGPT Desktop Application (Mac, Windows and Linux)",
+                "homepage": null,
                 "id": 575340621,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2024-08-29T17:58:11Z",
+                "open_issues": 942,
                 "owner": "lencx",
                 "repo": "ChatGPT",
-                "stars": 54460
+                "stars": 54462,
+                "topics": [
+                  "ai",
+                  "app",
+                  "application",
+                  "chatgpt",
+                  "desktop-app",
+                  "gpt",
+                  "gpt-3",
+                  "linux",
+                  "macos",
+                  "notes-app",
+                  "openai",
+                  "rust",
+                  "tauri",
+                  "webview",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -28,12 +49,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful AI Client",
+                "homepage": "https://chatboxai.app?utm_medium=github",
                 "id": 610260322,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T14:13:27Z",
+                "open_issues": 1253,
                 "owner": "chatboxai",
                 "repo": "chatbox",
-                "stars": 41596
+                "stars": 41600,
+                "topics": [
+                  "assistant",
+                  "chatbot",
+                  "chatgpt",
+                  "claude",
+                  "claude-code",
+                  "copilot",
+                  "deepseek",
+                  "gemini",
+                  "gpt",
+                  "gpt-5",
+                  "ollama",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -44,12 +83,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)",
+                "homepage": "http://bettergpt.chat/",
                 "id": 609333954,
                 "language": "TypeScript",
+                "license": "CC0-1.0",
                 "last_commit": "2024-08-14T10:26:46Z",
+                "open_issues": 247,
                 "owner": "ztjhz",
                 "repo": "BetterChatGPT",
-                "stars": 8386
+                "stars": 8387,
+                "topics": [
+                  "better-chat-gpt",
+                  "chatbot",
+                  "chatgpt",
+                  "free",
+                  "gpt-3",
+                  "gpt-4"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -60,12 +111,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unofficial ChatGPT desktop app for Mac & Windows menubar using Tauri & Rust",
+                "homepage": "https://twitter.com/sonnylazuardi/status/1624281443022286848",
                 "id": 574034091,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2023-12-23T19:38:01Z",
+                "open_issues": 39,
                 "owner": "sonnylazuardi",
                 "repo": "chat-ai-desktop",
-                "stars": 1997
+                "stars": 1997,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "chatgpt-desktop",
+                  "chatgpt-desktop-app",
+                  "desktop",
+                  "desktop-app",
+                  "gpt-3",
+                  "mac",
+                  "macos",
+                  "menu-bar",
+                  "nextjs",
+                  "openai",
+                  "tauri",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -76,12 +147,31 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Fuel your productivity with ChatGPT-Desktop - Blazingly fast and supercharged!",
+                "homepage": null,
                 "id": 611734759,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2023-07-28T06:39:59Z",
+                "open_issues": 22,
                 "owner": "Synaptrix",
                 "repo": "ChatGPT-Desktop",
-                "stars": 1772
+                "stars": 1772,
+                "topics": [
+                  "ai",
+                  "arco-design",
+                  "chatgpt",
+                  "chatgpt-desktop",
+                  "gpt-35-turbo",
+                  "linux",
+                  "macos",
+                  "tauri",
+                  "typescript",
+                  "unocss",
+                  "vite",
+                  "vue3",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -92,12 +182,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)",
+                "homepage": null,
                 "id": 602320330,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-08T15:06:01Z",
+                "open_issues": 240,
                 "owner": "dice2o",
                 "repo": "BingGPT",
-                "stars": 8914
+                "stars": 8914,
+                "topics": [
+                  "ai",
+                  "app",
+                  "bing",
+                  "binggpt",
+                  "chatgpt",
+                  "copilot",
+                  "desktop-app",
+                  "edge",
+                  "electron",
+                  "gpt",
+                  "gpt-4",
+                  "linux",
+                  "macos",
+                  "microsoft",
+                  "new-bing",
+                  "windows"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -108,12 +220,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ChatGPT for Mac, living in your menubar.",
+                "homepage": "https://twitter.com/vincelwt",
                 "id": 572971616,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-10-23T09:53:08Z",
+                "open_issues": 93,
                 "owner": "vincelwt",
                 "repo": "chatgpt-mac",
-                "stars": 6261
+                "stars": 6261,
+                "topics": [
+                  "chatgpt",
+                  "gpt-3",
+                  "macos",
+                  "menubar",
+                  "menubar-app",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -124,12 +248,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608555244,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-01-06T02:41:20Z",
+                "open_issues": 261,
                 "owner": "chenfei-wu",
                 "repo": "TaskMatrix",
-                "stars": 34000
+                "stars": 34000,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -140,12 +269,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+                "homepage": "https://github.com/binary-husky/gpt_academic/wiki/online",
                 "id": 616372661,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-25T12:33:10Z",
+                "open_issues": 330,
                 "owner": "binary-husky",
                 "repo": "gpt_academic",
-                "stars": 71266
+                "stars": 71268,
+                "topics": [
+                  "academic",
+                  "chatglm-6b",
+                  "chatgpt",
+                  "gpt-4",
+                  "large-language-models"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -156,12 +296,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "用 Express 和  Vue3 搭建的 ChatGPT 演示网页",
+                "homepage": null,
                 "id": 599394820,
                 "language": "Vue",
+                "license": "MIT",
                 "last_commit": "2024-08-16T15:26:57Z",
+                "open_issues": 1,
                 "owner": "Chanzhaoyu",
                 "repo": "chatgpt-web",
-                "stars": 31490
+                "stars": 31490,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -172,12 +317,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows",
+                "homepage": "https://nextchat.club",
                 "id": 612344730,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-11T02:07:25Z",
+                "open_issues": 853,
                 "owner": "ChatGPTNextWeb",
                 "repo": "NextChat",
-                "stars": 88659
+                "stars": 88662,
+                "topics": [
+                  "calclaude",
+                  "chatgpt",
+                  "claude",
+                  "cross-platform",
+                  "desktop",
+                  "fe",
+                  "gemini",
+                  "gemini-pro",
+                  "gemini-server",
+                  "gemini-ultra",
+                  "gpt-4o",
+                  "groq",
+                  "nextjs",
+                  "ollama",
+                  "react",
+                  "tauri",
+                  "tauri-app",
+                  "vercel",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -188,12 +358,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI chat for any model.",
+                "homepage": "https://JoinTakeoff.com",
                 "id": 612640604,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-08-03T00:38:07Z",
+                "open_issues": 240,
                 "owner": "mckaywrigley",
                 "repo": "chatbot-ui",
-                "stars": 33340
+                "stars": 33341,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -204,12 +379,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.",
+                "homepage": "https://huggingface.co/spaces/JohnSmith9982/ChuanhuChatGPT",
                 "id": 608660982,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-30T13:54:58Z",
+                "open_issues": 129,
                 "owner": "GaiZhenbiao",
                 "repo": "ChuanhuChatGPT",
-                "stars": 15275
+                "stars": 15276,
+                "topics": [
+                  "chatbot",
+                  "chatglm",
+                  "chatgpt-api",
+                  "claude",
+                  "dalle3",
+                  "ernie",
+                  "gemini",
+                  "gemma",
+                  "inspurai",
+                  "llama",
+                  "midjourney",
+                  "minimax",
+                  "moss",
+                  "ollama",
+                  "qwen",
+                  "spark",
+                  "stablelm"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -220,12 +418,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)",
+                "homepage": "http://bettergpt.chat/",
                 "id": 609333954,
                 "language": "TypeScript",
+                "license": "CC0-1.0",
                 "last_commit": "2024-08-14T10:26:46Z",
+                "open_issues": 247,
                 "owner": "ztjhz",
                 "repo": "BetterChatGPT",
-                "stars": 8386
+                "stars": 8387,
+                "topics": [
+                  "better-chat-gpt",
+                  "chatbot",
+                  "chatgpt",
+                  "free",
+                  "gpt-3",
+                  "gpt-4"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -236,12 +446,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing",
+                "homepage": null,
                 "id": 608455903,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-30T11:10:00Z",
+                "open_issues": 40,
                 "owner": "circlestarzero",
                 "repo": "EX-chatGPT",
-                "stars": 1959
+                "stars": 1959,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -252,12 +467,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "演示站可以免费使用deepseek-r1满血模型进行AI对话，并支持使用stablediffusion模型画图。本项目是PHP版调用DeepSeek第三方接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，适合PHP初学者。保姆级教程，账号等周边资源，欢迎进群交流，一切全免费。",
+                "homepage": "https://mm1.ltd",
                 "id": 602478874,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-07-24T06:39:51Z",
+                "open_issues": 3,
                 "owner": "dirk1983",
                 "repo": "deepseek",
-                "stars": 3103
+                "stars": 3103,
+                "topics": [
+                  "chatgpt",
+                  "html",
+                  "php"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -268,12 +492,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Locally running, hands-free ChatGPT UI",
+                "homepage": "https://yakgpt.vercel.app",
                 "id": 621379499,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2024-05-08T23:58:37Z",
+                "open_issues": 19,
                 "owner": "yakGPT",
                 "repo": "yakGPT",
-                "stars": 1586
+                "stars": 1586,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -284,12 +513,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Empowering your ChatGPT with vision and audio inputs.",
+                "homepage": null,
                 "id": 614425687,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-18T16:14:44Z",
+                "open_issues": 3,
                 "owner": "fengyuli-dev",
                 "repo": "multimedia-gpt",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "gpt",
+                  "openai-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -300,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "something like visual-chatgpt, 文心一言的开源版",
+                "homepage": null,
                 "id": 619028064,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-24T13:12:20Z",
+                "open_issues": 33,
                 "owner": "visual-openllm",
                 "repo": "visual-openllm",
-                "stars": 1186
+                "stars": 1186,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -316,12 +560,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently.",
+                "homepage": null,
                 "id": 590604203,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-02T06:03:01Z",
+                "open_issues": 120,
                 "owner": "TheR1D",
                 "repo": "shell_gpt",
-                "stars": 12261
+                "stars": 12261,
+                "topics": [
+                  "chatgpt",
+                  "cheat-sheet",
+                  "cli",
+                  "commands",
+                  "gpt-3",
+                  "gpt-4",
+                  "gpt-5",
+                  "linux",
+                  "llama",
+                  "llm",
+                  "ollama",
+                  "openai",
+                  "productivity",
+                  "python",
+                  "shell",
+                  "terminal"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -332,12 +598,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+                "homepage": null,
                 "id": 608896930,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-23T11:16:42Z",
+                "open_issues": 99,
                 "owner": "sigoden",
                 "repo": "aichat",
-                "stars": 10403
+                "stars": 10404,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "chatbot",
+                  "claude",
+                  "cli",
+                  "function-calling",
+                  "gemini",
+                  "llm",
+                  "ollama",
+                  "openai",
+                  "rag",
+                  "rust",
+                  "shell",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -348,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Have a conversation with ChatGPT using your voice, and have it talk back.",
+                "homepage": null,
                 "id": 574260301,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-12-06T09:19:40Z",
+                "open_issues": 8,
                 "owner": "platelminto",
                 "repo": "chatgpt-conversation",
-                "stars": 653
+                "stars": 653,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -364,12 +655,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+                "homepage": "https://librechat.ai/",
                 "id": 600596928,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T17:38:27Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:35:01Z",
+                "open_issues": 734,
                 "owner": "danny-avila",
                 "repo": "LibreChat",
-                "stars": 42563
+                "stars": 42577,
+                "topics": [
+                  "ai",
+                  "anthropic",
+                  "artifacts",
+                  "aws",
+                  "azure",
+                  "chatgpt",
+                  "chatgpt-clone",
+                  "claude",
+                  "clone",
+                  "deepseek",
+                  "gemini",
+                  "google",
+                  "gpt-5",
+                  "librechat",
+                  "mcp",
+                  "o1",
+                  "openai",
+                  "responses-api",
+                  "vision",
+                  "webui"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -387,12 +704,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Your API ⇒ Paid MCP. Instantly.",
+                "homepage": "https://agentic.so/publishing",
                 "id": 573631261,
                 "language": "TypeScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-11T04:50:03Z",
+                "open_issues": 15,
                 "owner": "transitive-bullshit",
                 "repo": "agentic",
-                "stars": 18118
+                "stars": 18118,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "llms",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -403,12 +730,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Python client for the ChatGPT API with, conversation tracking, proxy support and more.",
+                "homepage": null,
                 "id": 574428530,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-19T08:13:04Z",
+                "open_issues": 36,
                 "owner": "rawandahmad698",
                 "repo": "PyChatGPT",
-                "stars": 4184
+                "stars": 4184,
+                "topics": [
+                  "chatgpt",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -419,12 +755,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Power CLI and Workflow manager for LLMs (core package)",
+                "homepage": null,
                 "id": 573822937,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-14T17:15:46Z",
+                "open_issues": 3,
                 "owner": "llm-workflow-engine",
                 "repo": "llm-workflow-engine",
-                "stars": 3716
+                "stars": 3716,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "gpt-3",
+                  "gpt3",
+                  "gpt4",
+                  "llm",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -435,12 +785,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT Java SDK。支持 GPT-4o、 GPT-5 API。开箱即用。An unofficial Java SDK for seamless integration with ChatGPT's GPT-5 and GPT-4 APIs. Ready-to-use, simple setup, and efficient for building AI-powered applications.",
+                "homepage": "https://chat.plexpt.com/",
                 "id": 575253452,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2025-11-29T16:41:52Z",
+                "open_issues": 48,
                 "owner": "PlexPt",
                 "repo": "chatgpt-java",
-                "stars": 3579
+                "stars": 3579,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chatgpt-api-wrapper",
+                  "chatgpt-bot",
+                  "chatgpt-sdk",
+                  "chatgpt3",
+                  "chatgpt4",
+                  "gpt4",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -451,12 +816,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT Java SDK支持流式输出、Gpt插件、联网。支持OpenAI官方所有接口。ChatGPT的Java客户端。OpenAI GPT-3.5-Turb GPT-4  Api Client for Java",
+                "homepage": "https://chatgpt-java.unfbx.com",
                 "id": 600362783,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-08T03:04:22Z",
+                "open_issues": 73,
                 "owner": "Grt1228",
                 "repo": "chatgpt-java",
-                "stars": 3422
+                "stars": 3422,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-java",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "gpt-plugins",
+                  "java",
+                  "openai-api",
+                  "openai-chatgpt",
+                  "openai-images",
+                  "openai-whisper",
+                  "tiktoken-java",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -467,12 +850,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "OpenAI Api Client in Java",
+                "homepage": null,
                 "id": 295598569,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2024-06-06T20:00:23Z",
+                "open_issues": 129,
                 "owner": "TheoKanning",
                 "repo": "openai-java",
-                "stars": 4729
+                "stars": 4729,
+                "topics": [
+                  "gpt3",
+                  "java",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -483,12 +875,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.",
+                "homepage": "https://www.npmjs.com/package/@waylaidwanderer/chatgpt-api",
                 "id": 586141825,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-01-27T04:39:55Z",
+                "open_issues": 58,
                 "owner": "waylaidwanderer",
                 "repo": "node-chatgpt-api",
-                "stars": 4152
+                "stars": 4152,
+                "topics": [
+                  "api",
+                  "api-rest",
+                  "api-server",
+                  "bing",
+                  "bing-api",
+                  "bing-chat",
+                  "bing-search",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "cli",
+                  "gpt",
+                  "gpt-3",
+                  "gpt-4",
+                  "javascript",
+                  "nodejs",
+                  "npm",
+                  "openai",
+                  "openai-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -499,12 +915,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI, GPT 5.6, GPT-Image-2, Whisper API clients for Go",
+                "homepage": null,
                 "id": 288482469,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T20:04:20Z",
+                "open_issues": 220,
                 "owner": "sashabaranov",
                 "repo": "go-openai",
-                "stars": 10749
+                "stars": 10749,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-api",
+                  "dall-e",
+                  "go",
+                  "golang",
+                  "gpt-5-6",
+                  "gpt-5-6-sol",
+                  "openai",
+                  "openai-whisper",
+                  "streaming-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -515,12 +947,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI PHP SDK : Most downloaded, forked, contributed, huge community supported, and used PHP (Laravel , Symfony, Yii, Cake PHP or any PHP framework) SDK for OpenAI GPT-3 and DALL-E. It also supports chatGPT-like streaming. (ChatGPT AI is supported)",
+                "homepage": "https://orhanerday.gitbook.io/openai-php-api-1/",
                 "id": 440520058,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2025-03-12T12:05:15Z",
+                "open_issues": 32,
                 "owner": "orhanerday",
                 "repo": "open-ai",
-                "stars": 2366
+                "stars": 2366,
+                "topics": [
+                  "cakephp",
+                  "dall-e",
+                  "dalle2",
+                  "gpt-3",
+                  "laravel",
+                  "openai",
+                  "openai-api",
+                  "php",
+                  "symfony",
+                  "yii"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -531,12 +979,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📲 ChatGPT Android demonstrates a Chatbot application using OpenAI's chat API on Android with Stream Chat SDK for Compose.",
+                "homepage": null,
                 "id": 576254831,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-03T01:54:02Z",
+                "open_issues": 27,
                 "owner": "skydoves",
                 "repo": "chatgpt-android",
-                "stars": 3869
+                "stars": 3869,
+                "topics": [
+                  "android",
+                  "chat",
+                  "chat-gpt",
+                  "chatbot",
+                  "chatbots",
+                  "chatgpt",
+                  "chatgpt-android",
+                  "compose",
+                  "jetpack",
+                  "jetpackcompose",
+                  "kotlin",
+                  "openai-chatgpt",
+                  "skydoves"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -547,12 +1014,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET library for the OpenAI service API by Betalgo Ranul",
+                "homepage": "https://ranultinga.com/",
                 "id": 432730711,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-03-21T23:26:52Z",
+                "open_issues": 19,
                 "owner": "betalgo",
                 "repo": "openai",
-                "stars": 3021
+                "stars": 3021,
+                "topics": [
+                  "azure-openai",
+                  "chatgpt",
+                  "csharp",
+                  "dall-e",
+                  "dotnet",
+                  "openai",
+                  "openai-api",
+                  "ranul",
+                  "sdk",
+                  "tinga",
+                  "whisper",
+                  "whisper-ai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -570,12 +1055,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                "homepage": "https://agpt.co",
                 "id": 614765452,
                 "language": "Python",
-                "last_commit": "2026-08-28T17:03:02Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:02:30Z",
+                "open_issues": 525,
                 "owner": "Significant-Gravitas",
                 "repo": "AutoGPT",
-                "stars": 186962
+                "stars": 186966,
+                "topics": [
+                  "agentic-ai",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "autonomous-agents",
+                  "claude",
+                  "gpt",
+                  "llama-api",
+                  "llm",
+                  "openai",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -586,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Plugins for Auto-GPT",
+                "homepage": null,
                 "id": 625411260,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-29T13:45:09Z",
+                "open_issues": 65,
                 "owner": "Significant-Gravitas",
                 "repo": "Auto-GPT-Plugins",
-                "stars": 3827
+                "stars": 3827,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -602,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A graphical user interface for AutoGPT",
+                "homepage": null,
                 "id": 626564762,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-06-13T22:16:04Z",
+                "open_issues": 16,
                 "owner": "thecookingsenpai",
                 "repo": "autogpt-gui",
-                "stars": 1500
+                "stars": 1500,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -618,12 +1130,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用",
+                "homepage": "https://auto-agentgpt.com",
                 "id": 654447431,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2023-12-11T15:01:19Z",
+                "open_issues": 0,
                 "owner": "Dogtiti",
                 "repo": "AutoGPT-Next-Web",
-                "stars": 187
+                "stars": 187,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -634,12 +1151,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现",
+                "homepage": null,
                 "id": 629292062,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-15T13:46:08Z",
+                "open_issues": 1,
                 "owner": "kaqijiang",
                 "repo": "Auto-GPT-ZH",
-                "stars": 2466
+                "stars": 2466,
+                "topics": [
+                  "auto-gpt",
+                  "autogpt",
+                  "chat-gpt",
+                  "chatbot",
+                  "chatgpt",
+                  "chinese",
+                  "chinese-simplified",
+                  "chinese-translation",
+                  "gpt-3-5-turbo-api",
+                  "gpt-35-turbo",
+                  "gpt4-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -650,12 +1184,33 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.",
+                "homepage": "https://agentgpt.reworkd.ai",
                 "id": 624681066,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-29T01:19:32Z",
+                "open_issues": 219,
                 "owner": "reworkd",
                 "repo": "AgentGPT",
-                "stars": 36302
+                "stars": 36302,
+                "topics": [
+                  "agent",
+                  "agentgpt",
+                  "agents",
+                  "agi",
+                  "ai",
+                  "ai-agents",
+                  "autogpt",
+                  "baby-agi",
+                  "gpt",
+                  "langchain",
+                  "llm",
+                  "next",
+                  "openai",
+                  "t3",
+                  "t3-stack"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -666,12 +1221,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://babyagi.org/",
                 "id": 622737738,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-01-31T05:05:45Z",
+                "open_issues": 29,
                 "owner": "yoheinakajima",
                 "repo": "babyagi",
-                "stars": 22357
+                "stars": 22356,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -682,12 +1242,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MiniAGI is a simple general-purpose AI agent based on the OpenAI API.",
+                "homepage": null,
                 "id": 627744002,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-14T05:47:59Z",
+                "open_issues": 10,
                 "owner": "muellerberndt",
                 "repo": "mini-agi",
-                "stars": 2899
+                "stars": 2899,
+                "topics": [
+                  "agent",
+                  "agi",
+                  "artificial-intelligence",
+                  "gpt-3",
+                  "gpt-4"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -698,12 +1269,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Create LLM agents in a second with your prompts. Everything you need to create an LLM Agent - tools, prompts, frameworks, and models - all in one place.",
+                "homepage": null,
                 "id": 650549146,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-01T12:30:12Z",
+                "open_issues": 10,
                 "owner": "melih-unsal",
                 "repo": "DemoGPT",
-                "stars": 1905
+                "stars": 1905,
+                "topics": [
+                  "agent",
+                  "agents",
+                  "ai",
+                  "artificial-intelligence",
+                  "autogpt",
+                  "autonomous-agents",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "deepseek",
+                  "demo",
+                  "gpt-4",
+                  "langchain",
+                  "langchain-app",
+                  "langchain-python",
+                  "llms",
+                  "o1",
+                  "openai",
+                  "python",
+                  "streamlit",
+                  "streamlit-application"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -721,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Use ChatGPT On Wechat via wechaty",
+                "homepage": null,
                 "id": 574965758,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2024-05-20T09:44:41Z",
+                "open_issues": 53,
                 "owner": "fuergaosi233",
                 "repo": "wechat-chatgpt",
-                "stars": 13237
+                "stars": 13236,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -737,12 +1339,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source super AI assistant & Agent Harness. Plans tasks, runs tools and skills, self-evolves with memory and knowledge. Multi-model, multi-channel. Lightweight, extensible, one-line install. (formerly chatgpt-on-wechat)",
+                "homepage": "https://cowagent.ai",
                 "id": 522158088,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:39:32Z",
+                "open_issues": 42,
                 "owner": "zhayujie",
                 "repo": "CowAgent",
-                "stars": 46710
+                "stars": 46712,
+                "topics": [
+                  "ai",
+                  "ai-agent",
+                  "ai-agents",
+                  "chatgpt-on-wechat",
+                  "claude",
+                  "claude-code",
+                  "codex",
+                  "cowagent",
+                  "deepseek",
+                  "harness",
+                  "llm",
+                  "mcp",
+                  "multi-agent",
+                  "openai",
+                  "openclaw",
+                  "skills"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -753,12 +1377,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT for wechat https://github.com/AutumnWhj/ChatGPT-wechat-bot",
+                "homepage": null,
                 "id": 574600955,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2025-10-23T08:27:49Z",
+                "open_issues": 105,
                 "owner": "AutumnWhj",
                 "repo": "ChatGPT-wechat-bot",
-                "stars": 4712
+                "stars": 4712,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -769,12 +1398,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍺基于 Golang 实现的，OpenAI 微信聊天机器人",
+                "homepage": null,
                 "id": 612832767,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2023-04-19T13:01:40Z",
+                "open_issues": 17,
                 "owner": "riba2534",
                 "repo": "openai-on-wechat",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -785,12 +1419,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚡️ Build Your Own chatgpt Bot|🧀 Discord/Slack/Kook/Telegram |⛓ ToolCall|🔖 Plugin Support | 🌻 out-of-box | gpt-4o",
+                "homepage": "https://llmkira.github.io/Docs",
                 "id": 574462676,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-06-09T16:20:12Z",
+                "open_issues": 6,
                 "owner": "LlmKira",
                 "repo": "Openaibot",
-                "stars": 1970
+                "stars": 1970,
+                "topics": [
+                  "assistant",
+                  "chat-gpt",
+                  "discordbot",
+                  "gpt-4",
+                  "gpt-4-vision-preview",
+                  "gpt-4o",
+                  "gpt-4o-mini",
+                  "kook-bot",
+                  "openai",
+                  "slack-bot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -801,12 +1451,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrate ChatGPT into your own discord bot",
+                "homepage": null,
                 "id": 574046356,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-07-27T08:28:56Z",
+                "open_issues": 25,
                 "owner": "Zero6992",
                 "repo": "chatGPT-discord-bot",
-                "stars": 2731
+                "stars": 2732,
+                "topics": [
+                  "bot",
+                  "chatgpt",
+                  "discord",
+                  "discord-bot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -817,12 +1477,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily deploy your Telegram ChatGPT bot on Cloudflare Workers (or Vercel, Docker...).",
+                "homepage": "https://t.me/ChatGPT_Telegram_Workers",
                 "id": 609002853,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-04-06T19:48:25Z",
+                "open_issues": 16,
                 "owner": "tbxark",
                 "repo": "ChatGPT-Telegram-Workers",
-                "stars": 3811
+                "stars": 3812,
+                "topics": [
+                  "bot",
+                  "chatgpt",
+                  "cloudflare",
+                  "cloudflare-workers",
+                  "gpt",
+                  "serverless",
+                  "telegram",
+                  "telegram-bot",
+                  "vercel"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -833,12 +1508,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python",
+                "homepage": null,
                 "id": 574160606,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2025-06-03T19:45:13Z",
+                "open_issues": 109,
                 "owner": "n3d1117",
                 "repo": "chatgpt-telegram-bot",
-                "stars": 3461
+                "stars": 3461,
+                "topics": [
+                  "chatgpt",
+                  "dall-e",
+                  "openai",
+                  "python",
+                  "telegram-bot",
+                  "whisper"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -849,12 +1536,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 可 DIY 的 多模态 AI 聊天机器人 | 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 | 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI | 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 | ",
+                "homepage": "https://kirara-docs.app.lss233.com/",
                 "id": 574506496,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-06-28T19:24:48Z",
+                "open_issues": 4,
                 "owner": "lss233",
                 "repo": "kirara-ai",
-                "stars": 18975
+                "stars": 18974,
+                "topics": [
+                  "bard",
+                  "bot",
+                  "chatglm-6b",
+                  "chatgpt",
+                  "deepseek",
+                  "discord",
+                  "ernie",
+                  "go-cqhttp",
+                  "grok",
+                  "mirai",
+                  "new-bing",
+                  "ollama",
+                  "openai",
+                  "poe",
+                  "qq",
+                  "qqbot",
+                  "sydney",
+                  "telegram",
+                  "wechat",
+                  "xinghuo"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -865,12 +1578,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integrated with ChatGPT(GPT), DeepSeek, Dify, n8n, Langflow, Coze, Claude, Gemini, GLM, Ollama, SiliconFlow, Moonshot, openclaw / hermes agent, deerflow",
+                "homepage": "https://langbot.app",
                 "id": 575321313,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:41:44Z",
+                "open_issues": 125,
                 "owner": "langbot-app",
                 "repo": "LangBot",
-                "stars": 17598
+                "stars": 17602,
+                "topics": [
+                  "agent",
+                  "coze",
+                  "deepseek",
+                  "dify",
+                  "dingtalk",
+                  "discord",
+                  "feishu",
+                  "kook",
+                  "langbot",
+                  "lark",
+                  "line",
+                  "llm",
+                  "n8n",
+                  "ollama",
+                  "openai",
+                  "plugins",
+                  "qq",
+                  "rag",
+                  "telegram",
+                  "wechat"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -881,12 +1620,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 573538566,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-04-26T17:22:52Z",
+                "open_issues": 69,
                 "owner": "danielgross",
                 "repo": "whatsapp-gpt",
-                "stars": 3059
+                "stars": 3059,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -897,12 +1641,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀",
+                "homepage": "https://feishu.market",
                 "id": 598539671,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2025-07-08T09:42:50Z",
+                "open_issues": 89,
                 "owner": "ConnectAI-E",
                 "repo": "feishu-openai",
-                "stars": 5639
+                "stars": 5639,
+                "topics": [
+                  "chatgpt",
+                  "chatgpt-api",
+                  "chatgpt-bot",
+                  "connect-ai",
+                  "feishu-bot",
+                  "go",
+                  "golang",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -913,12 +1671,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "给飞书准备的 ChatGPT 机器人",
+                "homepage": null,
                 "id": 599686136,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-01-13T02:15:22Z",
+                "open_issues": 45,
                 "owner": "bestony",
                 "repo": "ChatGPT-Feishu",
-                "stars": 1169
+                "stars": 1169,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -929,12 +1692,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAI + LINE + Vercel = GPT AI Assistant",
+                "homepage": "https://memochou1993.github.io/gpt-ai-assistant-docs/",
                 "id": 576238936,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-08T13:29:55Z",
+                "open_issues": 14,
                 "owner": "memochou1993",
                 "repo": "gpt-ai-assistant",
-                "stars": 7740
+                "stars": 7740,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -945,12 +1713,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a repository that allows you to integrate ChatGPT into Line.",
+                "homepage": null,
                 "id": 604408050,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-05-04T20:22:41Z",
+                "open_issues": 40,
                 "owner": "TheExplainthis",
                 "repo": "ChatGPT-Line-Bot",
-                "stars": 1689
+                "stars": 1689,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -961,12 +1734,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community-driven way to read and chat with AI bots - powered by chatGPT.",
+                "homepage": "https://www.i365.tech/",
                 "id": 611284377,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-02-05T10:40:28Z",
+                "open_issues": 15,
                 "owner": "myreader-io",
                 "repo": "myGPTReader",
-                "stars": 4418
+                "stars": 4418,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "crawler",
+                  "daily-news",
+                  "embedding",
+                  "gpt-35-turbo",
+                  "hot-news",
+                  "openai",
+                  "prompt",
+                  "reader",
+                  "scraper",
+                  "slack-bot"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -977,12 +1768,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An OpenAI Teams Bot app to let you chat with OpenAI API in Microsoft Teams, similar to ChatGPT Teams Bot app",
+                "homepage": null,
                 "id": 578103842,
                 "language": "TypeScript",
+                "license": null,
                 "last_commit": "2023-03-26T16:00:46Z",
+                "open_issues": 8,
                 "owner": "formulahendry",
                 "repo": "openai-teams-bot",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "chatgpt",
+                  "microsoft-teams",
+                  "microsoft-teams-bot",
+                  "openai",
+                  "openai-api"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -1002,12 +1804,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复",
+                    "homepage": "https://academic.chatpaper.top",
                     "id": 611305072,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-02T15:48:09Z",
+                    "open_issues": 83,
                     "owner": "kaixindelele",
                     "repo": "ChatPaper",
-                    "stars": 19786
+                    "stars": 19786,
+                    "topics": [
+                      "arxiv",
+                      "paper"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1018,12 +1828,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A LLM based research assistant that allows you to have a conversation with a research paper",
+                    "homepage": "https://www.dara.chat",
                     "id": 595940434,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-21T01:54:29Z",
+                    "open_issues": 0,
                     "owner": "mukulpatnaik",
                     "repo": "researchgpt",
-                    "stars": 3531
+                    "stars": 3532,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1034,12 +1849,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "AI PDF chatbot agent built with LangChain & LangGraph ",
+                    "homepage": "https://www.youtube.com/watch?v=OF6SolDiEwU",
                     "id": 615113749,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-03-27T16:04:05Z",
+                    "open_issues": 0,
                     "owner": "mayooear",
                     "repo": "ai-pdf-chatbot-langchain",
-                    "stars": 16598
+                    "stars": 16598,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "chatbot",
+                      "langchain",
+                      "langgraph",
+                      "nextjs",
+                      "openai",
+                      "pdf",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1050,12 +1880,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities. The most effective open source solution to turn your pdf files in a chatbot!",
+                    "homepage": "https://huggingface.co/spaces/bhaskartripathi/pdfChatter",
                     "id": 610912437,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-06T20:50:46Z",
+                    "open_issues": 49,
                     "owner": "bhaskatripathi",
                     "repo": "pdfGPT",
-                    "stars": 7167
+                    "stars": 7167,
+                    "topics": [
+                      "chatpdf",
+                      "chatwithpdf",
+                      "pdfgpt"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1066,12 +1905,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.",
+                    "homepage": "https://app.docsgpt.cloud/",
                     "id": 596516907,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T15:08:22Z",
+                    "open_issues": 105,
                     "owner": "arc53",
                     "repo": "DocsGPT",
-                    "stars": 18231
+                    "stars": 18231,
+                    "topics": [
+                      "agent-builder",
+                      "agents",
+                      "ai",
+                      "chatgpt",
+                      "docsgpt",
+                      "hacktoberfest",
+                      "hacktoberfest2025",
+                      "information-retrieval",
+                      "language-model",
+                      "llm",
+                      "machine-learning",
+                      "natural-language-processing",
+                      "python",
+                      "pytorch",
+                      "rag",
+                      "react",
+                      "search",
+                      "semantic-search",
+                      "transformers"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1082,12 +1946,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use ChatGPT (or other backends) to generate PPT automatically, all in one single file.",
+                    "homepage": null,
                     "id": 574347022,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2023-03-27T15:07:57Z",
+                    "open_issues": 8,
                     "owner": "williamfzc",
                     "repo": "chat-gpt-ppt",
-                    "stars": 918
+                    "stars": 918,
+                    "topics": [
+                      "chatgpt",
+                      "gpt",
+                      "openai",
+                      "ppt",
+                      "slide"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1098,12 +1973,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Enjoy reading with your favorite style.",
+                    "homepage": "https://jesselau.com",
                     "id": 611622512,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-03-15T04:13:50Z",
+                    "open_issues": 1,
                     "owner": "jesselau76",
                     "repo": "ebook-GPT-translator",
-                    "stars": 1729
+                    "stars": 1729,
+                    "topics": [
+                      "docx",
+                      "epub",
+                      "mobi",
+                      "pdf",
+                      "python",
+                      "translation",
+                      "translator"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1114,12 +2002,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Evaluation tool for LLM QA chains",
+                    "homepage": "https://autoevaluator.langchain.com/",
                     "id": 628105790,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-05-10T02:00:18Z",
+                    "open_issues": 3,
                     "owner": "rlancemartin",
                     "repo": "auto-evaluator",
-                    "stars": 1101
+                    "stars": 1101,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1130,12 +2023,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "OP Vault ChatGPT: Give ChatGPT long-term memory using the OP Stack (OpenAI + Pinecone Vector Database). Upload your own custom knowledge base files (PDF, txt, epub, etc) using a simple React frontend.",
+                    "homepage": "https://vault.pash.city",
                     "id": 629313011,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2025-07-08T16:02:56Z",
+                    "open_issues": 50,
                     "owner": "pashpashpash",
                     "repo": "vault-ai",
-                    "stars": 3388
+                    "stars": 3388,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "chatgpt",
+                      "generative",
+                      "go",
+                      "golang",
+                      "knowledge-base",
+                      "long-term-memory",
+                      "machine-learning",
+                      "openai",
+                      "openai-api",
+                      "pdf-support",
+                      "pinecone",
+                      "qdrant-vector-database",
+                      "question-answering",
+                      "react",
+                      "reactjs",
+                      "vector-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1153,12 +2070,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A CLI that writes your git commit messages for you with AI",
+                    "homepage": "https://www.npmjs.com/package/aicommits",
                     "id": 601399291,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-14T15:26:32Z",
+                    "open_issues": 11,
                     "owner": "Nutlope",
                     "repo": "aicommits",
-                    "stars": 9095
+                    "stars": 9094,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1169,12 +2091,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "top #1 and most feature rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports local Ollama models too",
+                    "homepage": "https://www.npmjs.com/package/opencommit",
                     "id": 610217037,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T18:06:22Z",
+                    "open_issues": 150,
                     "owner": "di-sukharev",
                     "repo": "opencommit",
-                    "stars": 7527
+                    "stars": 7527,
+                    "topics": [
+                      "ai",
+                      "ai-commit",
+                      "ai-commits",
+                      "artificial-intelligence",
+                      "chatgpt",
+                      "git",
+                      "gpt",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1185,12 +2121,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A git prepare-commit-msg hook for authoring commit messages with LLMs.",
+                    "homepage": null,
                     "id": 588732058,
                     "language": "Rust",
+                    "license": "MIT",
                     "last_commit": "2026-04-19T09:44:40Z",
+                    "open_issues": 19,
                     "owner": "zurawiki",
                     "repo": "gptcommit",
-                    "stars": 2420
+                    "stars": 2420,
+                    "topics": [
+                      "cli",
+                      "git",
+                      "githook",
+                      "large-language-models",
+                      "rust"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1201,12 +2148,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤖️ A ChatGPT based GitHub robot. dialogue/CR/etc..",
+                    "homepage": "https://github.com/apps/chatgptbot",
                     "id": 574332011,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2023-10-08T22:44:11Z",
+                    "open_issues": 54,
                     "owner": "oceanlvr",
                     "repo": "ChatGPT-ProBot",
-                    "stars": 398
+                    "stars": 398,
+                    "topics": [
+                      "chatgpt",
+                      "github-app",
+                      "github-robot",
+                      "probot",
+                      "robot"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1217,12 +2175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 615861000,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-03-08T07:33:01Z",
+                    "open_issues": 27,
                     "owner": "biobootloader",
                     "repo": "wolverine",
-                    "stars": 5073
+                    "stars": 5073,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1233,12 +2196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A terminal assistant for the hopelessly confused",
+                    "homepage": null,
                     "id": 575748307,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-20T22:03:43Z",
+                    "open_issues": 18,
                     "owner": "shobrook",
                     "repo": "wut",
-                    "stars": 1423
+                    "stars": 1423,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1249,12 +2217,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chat-based SQL Client and Editor for the next decade",
+                    "homepage": "https://sqlchat.ai",
                     "id": 614656648,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-04-21T03:03:56Z",
+                    "open_issues": 24,
                     "owner": "sqlchat",
                     "repo": "sqlchat",
-                    "stars": 5846
+                    "stars": 5846,
+                    "topics": [
+                      "chatgpt",
+                      "clickhouse",
+                      "cockroachdb",
+                      "gpt",
+                      "mongodb",
+                      "mssql",
+                      "mysql",
+                      "openai",
+                      "oracle",
+                      "postgres",
+                      "redis",
+                      "snowflake",
+                      "sql",
+                      "sqlclient",
+                      "sqleditor",
+                      "sqlite",
+                      "sqlserver",
+                      "text-to-sql",
+                      "text2sql",
+                      "tidb"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1265,12 +2259,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your own AI model to generate, explain, and optimize queries. Available on desktop, web, Docker, and CLI, with MCP support.",
+                    "homepage": "https://chat2db.ai",
                     "id": 656227652,
                     "language": "Java",
-                    "last_commit": "2026-08-28T08:01:42Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-28T22:23:24Z",
+                    "open_issues": 262,
                     "owner": "OtterMind",
                     "repo": "Chat2DB",
-                    "stars": 28047
+                    "stars": 28049,
+                    "topics": [
+                      "ai",
+                      "clickhouse",
+                      "database",
+                      "database-client",
+                      "database-gui",
+                      "database-management",
+                      "jdbc",
+                      "llm",
+                      "mcp",
+                      "mongodb",
+                      "mysql",
+                      "oracle",
+                      "postgresql",
+                      "redis",
+                      "sql",
+                      "sql-client",
+                      "sql-editor",
+                      "sql-server",
+                      "sqlite",
+                      "text-to-sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1281,12 +2301,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "bloop is a fast code search engine written in Rust.",
+                    "homepage": "https://bloop.ai",
                     "id": 576642715,
                     "language": "Rust",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-12-04T17:39:21Z",
+                    "open_issues": 43,
                     "owner": "BloopAI",
                     "repo": "bloop",
-                    "stars": 9498
+                    "stars": 9498,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1297,12 +2322,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Conversations with your files! Manage and run your AI presets!",
+                    "homepage": "https://github.com/nicepkg/gpt-runner",
                     "id": 640476297,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-11T13:14:48Z",
+                    "open_issues": 10,
                     "owner": "nicepkg",
                     "repo": "gpt-runner",
-                    "stars": 385
+                    "stars": 385,
+                    "topics": [
+                      "ai",
+                      "anthropic",
+                      "chatgpt",
+                      "langchain",
+                      "llm",
+                      "openai",
+                      "prompt",
+                      "promptengineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1313,12 +2352,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Artificial Intelligence Infrastructure-as-Code Generator.",
+                    "homepage": null,
                     "id": 575295397,
                     "language": "Go",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-03-24T10:56:24Z",
+                    "open_issues": 3,
                     "owner": "gofireflyio",
                     "repo": "aiac",
-                    "stars": 3786
+                    "stars": 3787,
+                    "topics": [
+                      "ai",
+                      "amazon-bedrock",
+                      "chatgpt",
+                      "iac",
+                      "llms",
+                      "ollama",
+                      "openai",
+                      "pulumi",
+                      "terraform"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1329,12 +2383,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use AI to translate code from one language to another.",
+                    "homepage": "https://JoinTakeoff.com",
                     "id": 621621548,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-12-21T00:19:08Z",
+                    "open_issues": 24,
                     "owner": "mckaywrigley",
                     "repo": "ai-code-translator",
-                    "stars": 4169
+                    "stars": 4169,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1345,12 +2404,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+                    "homepage": "https://pandas-ai.com",
                     "id": 631258918,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-10-28T10:02:13Z",
+                    "open_issues": 22,
                     "owner": "sinaptik-ai",
                     "repo": "pandas-ai",
-                    "stars": 23774
+                    "stars": 23774,
+                    "topics": [
+                      "ai",
+                      "csv",
+                      "data",
+                      "data-analysis",
+                      "data-science",
+                      "data-visualization",
+                      "database",
+                      "datalake",
+                      "gpt-4",
+                      "llm",
+                      "pandas",
+                      "sql",
+                      "text-to-sql"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1368,12 +2446,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)",
+                    "homepage": "https://bibigpt.co",
                     "id": 606803328,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-05-04T12:07:02Z",
+                    "open_issues": 41,
                     "owner": "JimmyLv",
                     "repo": "BibiGPT-v1",
-                    "stars": 6196
+                    "stars": 6197,
+                    "topics": [
+                      "bilibili",
+                      "chatgpt",
+                      "gpt",
+                      "gpt-3",
+                      "openai",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1384,12 +2474,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR2024 Highlight][VideoChatGPT] ChatGPT with video understanding! And many more supported LMs such as miniGPT4, StableLM, and MOSS.",
+                    "homepage": "https://vchat.opengvlab.com/",
                     "id": 629922458,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-17T10:31:09Z",
+                    "open_issues": 75,
                     "owner": "OpenGVLab",
                     "repo": "Ask-Anything",
-                    "stars": 3347
+                    "stars": 3347,
+                    "topics": [
+                      "big-model",
+                      "captioning-videos",
+                      "chat",
+                      "chatgpt",
+                      "foundation-models",
+                      "gradio",
+                      "langchain",
+                      "large-language-models",
+                      "large-model",
+                      "stablelm",
+                      "video",
+                      "video-question-answering",
+                      "video-understanding"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1400,12 +2509,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head",
+                    "homepage": "https://huggingface.co/spaces/AIGC-Audio/AudioGPT",
                     "id": 614719201,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-07-06T21:35:18Z",
+                    "open_issues": 53,
                     "owner": "AIGC-Audio",
                     "repo": "AudioGPT",
-                    "stars": 10167
+                    "stars": 10166,
+                    "topics": [
+                      "audio",
+                      "gpt",
+                      "music",
+                      "sound",
+                      "speech",
+                      "talking-head"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1416,12 +2537,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💬 SpeechGPT is a web application that enables you to converse with ChatGPT.",
+                    "homepage": "https://speechgpt.app",
                     "id": 620362812,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-11T12:18:16Z",
+                    "open_issues": 27,
                     "owner": "hahahumble",
                     "repo": "speechgpt",
-                    "stars": 2751
+                    "stars": 2751,
+                    "topics": [
+                      "chat",
+                      "chatbot",
+                      "chatgpt",
+                      "conversation",
+                      "language-learning",
+                      "speech"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1432,12 +2565,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An open-source ChatGPT app with a voice",
+                    "homepage": "https://www.chatwithgpt.ai",
                     "id": 610265797,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-24T17:16:12Z",
+                    "open_issues": 97,
                     "owner": "cogentapps",
                     "repo": "chat-with-gpt",
-                    "stars": 2352
+                    "stars": 2351,
+                    "topics": [
+                      "artificial-intelligence",
+                      "chat",
+                      "chatgpt",
+                      "chatgpt-api",
+                      "gpt-3",
+                      "gpt-4",
+                      "llm",
+                      "llms",
+                      "self-hosted",
+                      "speech-synthesis"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1448,12 +2597,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用）",
+                    "homepage": "https://doc.polyglotai.xyz",
                     "id": 614470292,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-09-03T09:45:40Z",
+                    "open_issues": 3,
                     "owner": "liou666",
                     "repo": "polyglot",
-                    "stars": 2585
+                    "stars": 2585,
+                    "topics": [
+                      "azure",
+                      "chatgpt",
+                      "electron",
+                      "openai",
+                      "polyglot",
+                      "tts"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1471,12 +2632,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AI tool to build charts based on text input",
+                    "homepage": "https://www.chartgpt.dev/",
                     "id": 631699700,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-06-16T20:17:49Z",
+                    "open_issues": 13,
                     "owner": "whoiskatrin",
                     "repo": "chart-gpt",
-                    "stars": 3584
+                    "stars": 3584,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1487,12 +2653,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "one sentence generates any graph",
+                    "homepage": "https://cloudorc.github.io/SolidUI-Website/",
                     "id": 535063290,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2024-01-27T17:56:40Z",
+                    "open_issues": 30,
                     "owner": "CloudOrc",
                     "repo": "SolidUI",
-                    "stars": 680
+                    "stars": 680,
+                    "topics": [
+                      "2d",
+                      "3d",
+                      "3d-data-visualization",
+                      "aigc",
+                      "analytics",
+                      "chatglm",
+                      "chatgpt",
+                      "llms",
+                      "painting",
+                      "python",
+                      "react",
+                      "stable-diffusion",
+                      "stable-diffusion-webui",
+                      "stable-diffusion-webui-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1510,12 +2696,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automated Penetration Testing Agentic Framework Powered by Large Language Models",
+                    "homepage": null,
                     "id": 607013954,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-14T12:58:31Z",
+                    "open_issues": 70,
                     "owner": "GreyDGL",
                     "repo": "PentestGPT",
-                    "stars": 15119
+                    "stars": 15127,
+                    "topics": [
+                      "large-language-models",
+                      "llm",
+                      "penetration-testing",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1533,12 +2729,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "💞 Anyone can create GPT tools 人人都能创建 GPT 工具",
+                    "homepage": "https://aianything.netlify.app/",
                     "id": 609872793,
                     "language": "Vue",
+                    "license": "MIT",
                     "last_commit": "2023-03-29T01:03:49Z",
+                    "open_issues": 1,
                     "owner": "KeJunMao",
                     "repo": "ai-anything",
-                    "stars": 558
+                    "stars": 558,
+                    "topics": [
+                      "ai",
+                      "chatgpt",
+                      "nuxt3",
+                      "openai",
+                      "tools"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1549,12 +2756,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create your own ChatGPT App in seconds.",
+                    "homepage": "https://open-gpt.app/",
                     "id": 609090479,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2025-06-07T08:45:14Z",
+                    "open_issues": 19,
                     "owner": "futantan",
                     "repo": "OpenGpt",
-                    "stars": 3898
+                    "stars": 3898,
+                    "topics": [
+                      "application",
+                      "chatgpt",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1565,12 +2781,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 619108007,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-04-25T12:54:17Z",
+                    "open_issues": 13,
                     "owner": "lxfater",
                     "repo": "Portal",
-                    "stars": 1674
+                    "stars": 1674,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1588,12 +2809,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Upload a photo of your room to generate your dream room with AI.",
+                    "homepage": "https://www.roomgpt.io/",
                     "id": 604791960,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-04-20T12:17:17Z",
+                    "open_issues": 36,
                     "owner": "Nutlope",
                     "repo": "roomGPT",
-                    "stars": 10671
+                    "stars": 10671,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1604,12 +2830,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Extrapolating knowledge graphs from unstructured text using GPT-3 🕵️‍♂️",
+                    "homepage": "https://graphgpt.vercel.app",
                     "id": 595751641,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-10T10:01:21Z",
+                    "open_issues": 24,
                     "owner": "varunshenoy",
                     "repo": "GraphGPT",
-                    "stars": 4427
+                    "stars": 4427,
+                    "topics": [
+                      "gpt-3",
+                      "knowledge-graph"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1620,12 +2854,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mac app for crushing tech interviews with AI",
+                    "homepage": null,
                     "id": 619312022,
                     "language": "Swift",
+                    "license": "CC0-1.0",
                     "last_commit": "2025-01-14T21:52:44Z",
+                    "open_issues": 20,
                     "owner": "leetcode-mafia",
                     "repo": "cheetah",
-                    "stars": 4256
+                    "stars": 4256,
+                    "topics": [
+                      "ai",
+                      "chatgpt",
+                      "gpt",
+                      "gpt-4",
+                      "openai",
+                      "swift",
+                      "swiftui",
+                      "whisper",
+                      "whisper-cpp"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1636,12 +2885,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "中文版的ai地牢，直接使用的openai的ChatGPT api作为讲故事的模型。",
+                    "homepage": null,
                     "id": 574385890,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2023-03-27T10:37:49Z",
+                    "open_issues": 10,
                     "owner": "bupticybee",
                     "repo": "ChineseAiDungeonChatGPT",
-                    "stars": 1404
+                    "stars": 1404,
+                    "topics": [
+                      "ai",
+                      "aidungeon",
+                      "chatgpt",
+                      "gpt-3",
+                      "language",
+                      "language-model"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1652,12 +2913,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Using ChatGPT to create AR experiences with natural language.",
+                    "homepage": null,
                     "id": 580667327,
                     "language": "C",
+                    "license": "MIT",
                     "last_commit": "2023-03-31T02:24:24Z",
+                    "open_issues": 1,
                     "owner": "trzy",
                     "repo": "ChatARKit",
-                    "stars": 442
+                    "stars": 442,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1668,12 +2934,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Query your Apple Health data with natural language 💬 🩺",
+                    "homepage": null,
                     "id": 629207037,
                     "language": "Swift",
+                    "license": "MIT",
                     "last_commit": "2026-07-14T00:25:45Z",
+                    "open_issues": 12,
                     "owner": "StanfordBDHG",
                     "repo": "HealthGPT",
-                    "stars": 1965
+                    "stars": 1965,
+                    "topics": [
+                      "apple-health",
+                      "healthkit",
+                      "ios",
+                      "openai",
+                      "swift"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1684,12 +2961,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "MemFree - Hybrid AI Search Engine & AI Page Generator",
+                    "homepage": "https://www.memfree.me?ref=github.com",
                     "id": 815403287,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-07-06T12:02:53Z",
+                    "open_issues": 18,
                     "owner": "memfreeme",
                     "repo": "memfree",
-                    "stars": 1506
+                    "stars": 1506,
+                    "topics": [
+                      "ai",
+                      "ai-search",
+                      "ai-search-engine",
+                      "devfast",
+                      "generate-ui",
+                      "hacktoberfest",
+                      "hacktoberfest-accepted",
+                      "hybrid-ai-search",
+                      "page-generator",
+                      "react",
+                      "search-engine",
+                      "serverless-vector",
+                      "shadcn-ui",
+                      "vector-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1714,12 +3011,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
+                    "homepage": null,
                     "id": 617798408,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-04T22:00:16Z",
+                    "open_issues": 269,
                     "owner": "openai",
                     "repo": "chatgpt-retrieval-plugin",
-                    "stars": 21217
+                    "stars": 21217,
+                    "topics": [
+                      "chatgpt",
+                      "chatgpt-plugins"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -1737,12 +3042,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Integrating ChatGPT into your browser deeply, everything you need is here",
+                    "homepage": null,
                     "id": 614258120,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-28T17:31:57Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-28T22:08:34Z",
+                    "open_issues": 207,
                     "owner": "ChatGPTBox-dev",
                     "repo": "chatGPTBox",
-                    "stars": 10757
+                    "stars": 10757,
+                    "topics": [
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "edge-extension",
+                      "firefox-addon",
+                      "firefox-extension",
+                      "safari-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1753,12 +3071,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Automate your browser with GPT-4",
+                    "homepage": null,
                     "id": 619909200,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2025-01-15T23:52:14Z",
+                    "open_issues": 38,
                     "owner": "TaxyAI",
                     "repo": "browser-extension",
-                    "stars": 1275
+                    "stars": 1275,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1769,12 +3092,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This project is deprecated. Check my new project ChatHub:",
+                    "homepage": "https://chathub.gg",
                     "id": 574116196,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-08-14T17:49:27Z",
+                    "open_issues": 106,
                     "owner": "wong2",
                     "repo": "chatgpt-google-extension",
-                    "stars": 13050
+                    "stars": 13051,
+                    "topics": [
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "firefox-addon"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1785,12 +3118,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A ChatGPT Chrome extension. Integrates ChatGPT into every text box on the internet.",
+                    "homepage": null,
                     "id": 574162425,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-05-30T05:58:55Z",
+                    "open_issues": 34,
                     "owner": "gragland",
                     "repo": "chatgpt-chrome-extension",
-                    "stars": 2963
+                    "stars": 2963,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1801,12 +3139,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Chrome extension that generates tweets and replies using chatGPT",
+                    "homepage": null,
                     "id": 575837141,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-03-12T03:07:19Z",
+                    "open_issues": 6,
                     "owner": "yaroslav-n",
                     "repo": "tweetGPT",
-                    "stars": 664
+                    "stars": 664,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1817,12 +3160,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.",
+                    "homepage": null,
                     "id": 609416865,
                     "language": "TypeScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-23T18:50:38Z",
+                    "open_issues": 525,
                     "owner": "nextai-translator",
                     "repo": "nextai-translator",
-                    "stars": 24974
+                    "stars": 24973,
+                    "topics": [
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "openai",
+                      "translation",
+                      "translator",
+                      "translator-app"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1833,12 +3189,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension ",
+                    "homepage": "https://immersivetranslate.com",
                     "id": 575401013,
                     "language": null,
+                    "license": null,
                     "last_commit": "2026-08-21T11:59:20Z",
+                    "open_issues": 400,
                     "owner": "immersive-translate",
                     "repo": "immersive-translate",
-                    "stars": 18621
+                    "stars": 18625,
+                    "topics": [
+                      "chrome-extension",
+                      "safari-extension",
+                      "translation",
+                      "userscript"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1849,12 +3215,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Chrome extension for downloading your ChatGPT history to PNG, PDF or a sharable link",
+                    "homepage": null,
                     "id": 574183068,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-12T23:07:45Z",
+                    "open_issues": 35,
                     "owner": "liady",
                     "repo": "ChatGPT-pdf",
-                    "stars": 1480
+                    "stars": 1480,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1865,12 +3236,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "WebChatGPT: A browser extension that augments your ChatGPT prompts with web results.",
+                    "homepage": "https://webchatgpt.app",
                     "id": 573759422,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-08-13T16:34:44Z",
+                    "open_issues": 96,
                     "owner": "interstellard",
                     "repo": "chatgpt-advanced",
-                    "stars": 6444
+                    "stars": 6444,
+                    "topics": [
+                      "ai",
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "firefox-addon",
+                      "firefox-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1881,12 +3264,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatGPT with superpowers! Search chat history, create folders, export all chats, pin messages, access thousands of community prompts, incognito mode, language and tone selection, and many more features",
+                    "homepage": "https://spchatgpt.com",
                     "id": 628103570,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2024-06-18T22:16:25Z",
+                    "open_issues": 6,
                     "owner": "saeedezzati",
                     "repo": "superpower-chatgpt",
-                    "stars": 1701
+                    "stars": 1701,
+                    "topics": [
+                      "chrome-extension",
+                      "firefox-addon",
+                      "firefox-extension",
+                      "productivity"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1897,12 +3290,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Talk to ChatGPT AI using your voice and listen to its answers through a voice",
+                    "homepage": null,
                     "id": 576098787,
                     "language": "JavaScript",
+                    "license": "AGPL-3.0",
                     "last_commit": "2024-05-19T11:08:59Z",
+                    "open_issues": 95,
                     "owner": "C-Nedelcu",
                     "repo": "talk-to-chatgpt",
-                    "stars": 1929
+                    "stars": 1929,
+                    "topics": [
+                      "chatgpt"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1913,12 +3313,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Chrome browser extension that embeds ChatGPT as a hands-free voice assistant",
+                    "homepage": null,
                     "id": 576467752,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-04-04T16:33:48Z",
+                    "open_issues": 4,
                     "owner": "idosal",
                     "repo": "assistant-chat-gpt",
-                    "stars": 240
+                    "stars": 240,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1929,12 +3334,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Easily share permanent links to ChatGPT conversations with your friends",
+                    "homepage": "https://sharegpt.com",
                     "id": 574222836,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-09-25T19:21:08Z",
+                    "open_issues": 1,
                     "owner": "domeccleston",
                     "repo": "sharegpt",
-                    "stars": 1756
+                    "stars": 1756,
+                    "topics": [
+                      "ai",
+                      "chrome-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1945,12 +3358,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A browser extension that enhance search engines with ChatGPT",
+                    "homepage": "https://chatgpt4google.com",
                     "id": 598147996,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-07-03T03:07:33Z",
+                    "open_issues": 15,
                     "owner": "hunkimForks",
                     "repo": "chatgpt-arxiv-extension",
-                    "stars": 587
+                    "stars": 587,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1961,12 +3379,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Summarize web pages using OpenAI ChatGPT",
+                    "homepage": "https://chrome.google.com/webstore/detail/summarize/kjbpaokegiilajekbohjipdkojgekfij",
                     "id": 574618850,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-13T07:12:06Z",
+                    "open_issues": 3,
                     "owner": "clmnin",
                     "repo": "summarize.site",
-                    "stars": 755
+                    "stars": 755,
+                    "topics": [
+                      "browser-extension",
+                      "chatgpt",
+                      "chatgpt-browser-extension",
+                      "chatgpt-chrome-extension",
+                      "chrome-extension",
+                      "firefox-extension",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1977,12 +3408,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.",
+                    "homepage": "https://glarity.app",
                     "id": 598375636,
                     "language": "TypeScript",
+                    "license": "GPL-3.0",
                     "last_commit": "2024-10-14T09:21:10Z",
+                    "open_issues": 85,
                     "owner": "sparticleinc",
                     "repo": "chatgpt-google-summary-extension",
-                    "stars": 2060
+                    "stars": 2061,
+                    "topics": [
+                      "browser-extension",
+                      "chatgpt",
+                      "chrome-extension",
+                      "firefox-extension",
+                      "google",
+                      "google-chatgpt",
+                      "youtube"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -1993,12 +3437,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://www.webpilot.ai",
                     "id": 607671864,
                     "language": "Vue",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-18T18:03:48Z",
+                    "open_issues": 25,
                     "owner": "webpilot-ai",
                     "repo": "Webpilot",
-                    "stars": 1856
+                    "stars": 1856,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2009,12 +3458,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "YouTube Summary with ChatGPT is a simple Chrome Extension (manifest v3) that allows you to get both YouTube video transcripts and summary of the video with OpenAI's ChatGPT AI technology.",
+                    "homepage": null,
                     "id": 579355393,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-01-11T06:19:32Z",
+                    "open_issues": 11,
                     "owner": "kazuki-sf",
                     "repo": "YouTube_Summary_with_ChatGPT",
-                    "stars": 866
+                    "stars": 866,
+                    "topics": [
+                      "chatgpt",
+                      "chrome-extension",
+                      "manifest-v3"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -2032,12 +3490,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A VSCode extension that allows you to use ChatGPT",
+                    "homepage": null,
                     "id": 573941980,
                     "language": "TypeScript",
+                    "license": null,
                     "last_commit": "2023-09-29T18:27:16Z",
+                    "open_issues": 52,
                     "owner": "mpociot",
                     "repo": "chatgpt-vscode",
-                    "stars": 4925
+                    "stars": 4925,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2048,12 +3511,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API",
+                    "homepage": null,
                     "id": 576696753,
                     "language": "Lua",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-01-13T09:57:07Z",
+                    "open_issues": 112,
                     "owner": "jackMort",
                     "repo": "ChatGPT.nvim",
-                    "stars": 4000
+                    "stars": 4001,
+                    "topics": [
+                      "chatgpt",
+                      "neovim",
+                      "nvim-plugin",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2064,12 +3537,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "IDA plugin which queries language models to speed up reverse-engineering",
+                    "homepage": null,
                     "id": 574156195,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2026-08-15T17:09:38Z",
+                    "open_issues": 15,
                     "owner": "JusticeRage",
                     "repo": "Gepetto",
-                    "stars": 3461
+                    "stars": 3461,
+                    "topics": [
+                      "gpt-5-api",
+                      "ida-pro",
+                      "openai",
+                      "python",
+                      "reverse-engineering"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2080,12 +3564,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This project is a plugin that supports ChatGPT running on JetBrains series IDE.",
+                    "homepage": "https://plugins.jetbrains.com/plugin/20603-chatgpt",
                     "id": 575895729,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-10-10T07:25:11Z",
+                    "open_issues": 14,
                     "owner": "obiscr",
                     "repo": "ChatGPT",
-                    "stars": 1059
+                    "stars": 1059,
+                    "topics": [
+                      "chatgpt",
+                      "chatgpt-jetbrains"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2096,12 +3588,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A plugin that integrates ChatGPT and other third-party mirror sites into JetBrains IDEs.一个将 ChatGPT 和其他第三方镜像网站整合到 JetBrains IDEs 的插件。",
+                    "homepage": "https://plugins.jetbrains.com/plugin/20629-chatgpt-tool",
                     "id": 575907255,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2023-03-30T15:19:01Z",
+                    "open_issues": 11,
                     "owner": "LiLittleCat",
                     "repo": "intellij-chatgpt",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": [
+                      "chatgpt",
+                      "idea-plugin",
+                      "intellij",
+                      "intellij-plugin"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2112,12 +3614,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatGPT raycast extension",
+                    "homepage": "https://www.raycast.com/abielzulio/chatgpt",
                     "id": 573840205,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2024-05-02T12:06:50Z",
+                    "open_issues": 8,
                     "owner": "abielzulio",
                     "repo": "chatgpt-raycast",
-                    "stars": 614
+                    "stars": 614,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2128,12 +3635,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "ChatGPT directly within Google Docs as an Editor Add-on 📑",
+                    "homepage": "https://docs.google.com/document/d/1N7qvw5mZdVe2u2IQ5pnVDmUjHsLEfq9_Z0Tf8PHloZA/edit",
                     "id": 574289156,
                     "language": "JavaScript",
+                    "license": null,
                     "last_commit": "2023-06-26T20:17:56Z",
+                    "open_issues": 7,
                     "owner": "cesarhuret",
                     "repo": "docGPT",
-                    "stars": 671
+                    "stars": 671,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2144,12 +3656,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A ChatGPT bot for Kubernetes issues.",
+                    "homepage": null,
                     "id": 587275399,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-11-21T10:01:31Z",
+                    "open_issues": 10,
                     "owner": "robusta-dev",
                     "repo": "kubernetes-chatgpt-bot",
-                    "stars": 916
+                    "stars": 916,
+                    "topics": [
+                      "chatbot",
+                      "chatgpt",
+                      "kubernetes",
+                      "prometheus",
+                      "slack"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2160,12 +3683,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "✨ Kubectl plugin to create manifests with LLMs",
+                    "homepage": null,
                     "id": 615891862,
                     "language": "Go",
+                    "license": "MIT",
                     "last_commit": "2025-01-27T22:00:14Z",
+                    "open_issues": 15,
                     "owner": "sozercan",
                     "repo": "kubectl-ai",
-                    "stars": 1196
+                    "stars": 1196,
+                    "topics": [
+                      "ai",
+                      "chatgpt",
+                      "gpt",
+                      "gpt-4",
+                      "hacktoberfest",
+                      "k8s",
+                      "kubectl",
+                      "kubectl-plugins",
+                      "kubernetes",
+                      "llm",
+                      "localllama",
+                      "open-llm",
+                      "openai",
+                      "openai-api"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2176,12 +3719,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🐥 A code review bot powered by ChatGPT",
+                    "homepage": "https://github.com/apps/cr-gpt",
                     "id": 600450326,
                     "language": "JavaScript",
+                    "license": "ISC",
                     "last_commit": "2026-08-10T02:55:09Z",
+                    "open_issues": 56,
                     "owner": "anc95",
                     "repo": "ChatGPT-CodeReview",
-                    "stars": 4461
+                    "stars": 4460,
+                    "topics": [
+                      "chatgpt",
+                      "codereview",
+                      "probot"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2192,12 +3744,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Let ChatGPT review PRs for you ",
+                    "homepage": null,
                     "id": 575345949,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2023-09-09T18:16:11Z",
+                    "open_issues": 14,
                     "owner": "kxxt",
                     "repo": "chatgpt-action",
-                    "stars": 587
+                    "stars": 587,
+                    "topics": [
+                      "automation",
+                      "chat-gpt",
+                      "chatgpt",
+                      "ci",
+                      "code-review",
+                      "github-actions"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2208,12 +3772,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Play ChatGPT and other LLM with Xiaomi AI Speaker",
+                    "homepage": null,
                     "id": 602366280,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-02-24T08:25:26Z",
+                    "open_issues": 72,
                     "owner": "yihong0618",
                     "repo": "xiaogpt",
-                    "stars": 6902
+                    "stars": 6901,
+                    "topics": [
+                      "chatgpt",
+                      "llms",
+                      "python",
+                      "xiaomi"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2224,12 +3798,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Use commands in English to control Blender with OpenAI's GPT-4",
+                    "homepage": null,
                     "id": 616992960,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-05T08:14:18Z",
+                    "open_issues": 68,
                     "owner": "gd3kr",
                     "repo": "BlenderGPT",
-                    "stars": 4976
+                    "stars": 4976,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 },
@@ -2240,12 +3819,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Shortcuts for Siri using ChatGPT API, supports continuous conversations, configure the API key & save chat records. 由 ChatGPT API 模型驱动的智能 Siri，支持连续对话，配置API key，配置系统prompt，保存聊天记录。",
+                    "homepage": "https://x.com/YueYangDev",
                     "id": 606790323,
                     "language": null,
+                    "license": "MIT",
                     "last_commit": "2026-02-27T11:53:03Z",
+                    "open_issues": 48,
                     "owner": "Yue-Yang",
                     "repo": "ChatGPT-Siri",
-                    "stars": 3653
+                    "stars": 3653,
+                    "topics": [
+                      "chatgpt",
+                      "chatgpt-api",
+                      "chatgpt3",
+                      "open-source",
+                      "siri",
+                      "siri-shortcuts"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:43:35.624Z"
                 }
@@ -2268,12 +3859,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.",
+                "homepage": "https://nomic.ai/gpt4all",
                 "id": 619959033,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2025-05-27T20:05:19Z",
+                "open_issues": 773,
                 "owner": "nomic-ai",
                 "repo": "gpt4all",
-                "stars": 77397
+                "stars": 77397,
+                "topics": [
+                  "ai-chat",
+                  "llm-inference"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2284,12 +3883,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lord of Large Language and Multi modal Systems Web User Interface",
+                "homepage": "https://lollms.com",
                 "id": 624516901,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T09:10:26Z",
+                "open_issues": 183,
                 "owner": "ParisNeo",
                 "repo": "lollms-webui",
-                "stars": 4786
+                "stars": 4786,
+                "topics": [
+                  "ai",
+                  "llm",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2300,12 +3908,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+                "homepage": "https://open-assistant.io",
                 "id": 577603990,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-17T01:55:35Z",
+                "open_issues": 296,
                 "owner": "LAION-AI",
                 "repo": "Open-Assistant",
-                "stars": 37408
+                "stars": 37408,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "chatgpt",
+                  "discord-bot",
+                  "language-model",
+                  "machine-learning",
+                  "nextjs",
+                  "python",
+                  "rlhf"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2316,12 +3939,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and documentation to train Stanford's Alpaca models, and generate the data.",
+                "homepage": "https://crfm.stanford.edu/2023/03/13/alpaca.html",
                 "id": 612427246,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-17T09:43:05Z",
+                "open_issues": 186,
                 "owner": "tatsu-lab",
                 "repo": "stanford_alpaca",
-                "stars": 30246
+                "stars": 30246,
+                "topics": [
+                  "deep-learning",
+                  "instruction-following",
+                  "language-model"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2332,12 +3964,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+                "homepage": "https://www.deepspeed.ai/",
                 "id": 235860204,
                 "language": "Python",
-                "last_commit": "2026-08-28T02:58:20Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:37:33Z",
+                "open_issues": 1329,
                 "owner": "deepspeedai",
                 "repo": "DeepSpeed",
-                "stars": 43018
+                "stars": 43019,
+                "topics": [
+                  "billion-parameters",
+                  "compression",
+                  "data-parallelism",
+                  "deep-learning",
+                  "gpu",
+                  "inference",
+                  "machine-learning",
+                  "mixture-of-experts",
+                  "model-parallelism",
+                  "pipeline-parallelism",
+                  "pytorch",
+                  "trillion-parameters",
+                  "zero"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2348,12 +3999,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型",
+                "homepage": null,
                 "id": 613349035,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-27T04:05:25Z",
+                "open_issues": 605,
                 "owner": "zai-org",
                 "repo": "ChatGLM-6B",
-                "stars": 40983
+                "stars": 40983,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2364,12 +4020,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型",
+                "homepage": null,
                 "id": 657895120,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-27T04:05:08Z",
+                "open_issues": 450,
                 "owner": "zai-org",
                 "repo": "ChatGLM2-6B",
-                "stars": 15528
+                "stars": 15528,
+                "topics": [
+                  "chatglm",
+                  "chatglm-6b",
+                  "large-language-models",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2380,12 +4046,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training",
+                "homepage": null,
                 "id": 288108533,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-15T04:09:40Z",
+                "open_issues": 83,
                 "owner": "karpathy",
                 "repo": "minGPT",
-                "stars": 24842
+                "stars": 24842,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2396,12 +4067,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.",
+                "homepage": null,
                 "id": 615882673,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-01T00:25:53Z",
+                "open_issues": 1041,
                 "owner": "lm-sys",
                 "repo": "FastChat",
-                "stars": 39526
+                "stars": 39526,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2412,12 +4088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
+                "homepage": "https://minigpt-4.github.io",
                 "id": 628419800,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-09-02T09:07:21Z",
+                "open_issues": 376,
                 "owner": "Vision-CAIR",
                 "repo": "MiniGPT-4",
-                "stars": 25625
+                "stars": 25625,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2428,12 +4109,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Instruct-tune LLaMA on consumer hardware",
+                "homepage": null,
                 "id": 613591358,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-29T13:37:49Z",
+                "open_issues": 365,
                 "owner": "tloen",
                 "repo": "alpaca-lora",
-                "stars": 18908
+                "stars": 18908,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2444,12 +4130,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This codebase is for a React and Electron-based app that executes the FreedomGPT LLM locally (offline and private) on Mac and Windows using a chat-based interface",
+                "homepage": "http://www.freedomgpt.com",
                 "id": 617048769,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2024-06-13T18:52:39Z",
+                "open_issues": 76,
                 "owner": "ohmplatform",
                 "repo": "FreedomGPT",
-                "stars": 2670
+                "stars": 2670,
+                "topics": [
+                  "electron",
+                  "gpt",
+                  "llm",
+                  "react"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2460,12 +4156,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "StableLM: Stability AI Language Models",
+                "homepage": null,
                 "id": 630023030,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-08T19:26:02Z",
+                "open_issues": 27,
                 "owner": "Stability-AI",
                 "repo": "StableLM",
-                "stars": 15684
+                "stars": 15684,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2476,12 +4177,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 608892940,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-09T19:09:58Z",
+                "open_issues": 92,
                 "owner": "togethercomputer",
                 "repo": "OpenChatKit",
-                "stars": 8983
+                "stars": 8983,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2492,12 +4198,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source desktop app for local LLMs. Text, vision, tool-calling, OpenAI/Anthropic-compatible API. 100% private.",
+                "homepage": null,
                 "id": 580642043,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-17T17:38:16Z",
+                "open_issues": 840,
                 "owner": "oobabooga",
                 "repo": "textgen",
-                "stars": 47589
+                "stars": 47591,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2508,12 +4219,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM",
+                "homepage": null,
                 "id": 576380523,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-27T23:39:41Z",
+                "open_issues": 20,
                 "owner": "lucidrains",
                 "repo": "PaLM-rlhf-pytorch",
-                "stars": 7867
+                "stars": 7867,
+                "topics": [
+                  "artificial-intelligence",
+                  "attention-mechanisms",
+                  "deep-learning",
+                  "human-feedback",
+                  "reinforcement-learning",
+                  "transformers"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2524,12 +4247,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.",
+                "homepage": null,
                 "id": 588477692,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-19T19:09:29Z",
+                "open_issues": 61,
                 "owner": "BlinkDL",
                 "repo": "ChatRWKV",
-                "stars": 9498
+                "stars": 9498,
+                "topics": [
+                  "chatbot",
+                  "chatgpt",
+                  "language-model",
+                  "pytorch",
+                  "rnn",
+                  "rwkv"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2540,12 +4275,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform",
+                "homepage": "https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html",
                 "id": 618511002,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-06-30T18:36:16Z",
+                "open_issues": 5,
                 "owner": "databrickslabs",
                 "repo": "dolly",
-                "stars": 10805
+                "stars": 10805,
+                "topics": [
+                  "chatbot",
+                  "databricks",
+                  "dolly",
+                  "gpt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2556,12 +4301,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)",
+                "homepage": "https://github.com/ymcui/Chinese-LLaMA-Alpaca/wiki",
                 "id": 614325365,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-19T00:58:05Z",
+                "open_issues": 5,
                 "owner": "ymcui",
                 "repo": "Chinese-LLaMA-Alpaca",
-                "stars": 18934
+                "stars": 18934,
+                "topics": [
+                  "alpaca",
+                  "alpaca-2",
+                  "large-language-models",
+                  "llama",
+                  "llama-2",
+                  "llm",
+                  "lora",
+                  "nlp",
+                  "plm",
+                  "pre-trained-language-models",
+                  "quantization"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2572,12 +4334,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source tool-augmented conversational language model from Fudan University",
+                "homepage": "https://txsun1997.github.io/blogs/moss.html",
                 "id": 628296906,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-27T13:16:14Z",
+                "open_issues": 242,
                 "owner": "OpenMOSS",
                 "repo": "MOSS",
-                "stars": 12234
+                "stars": 12234,
+                "topics": [
+                  "chatgpt",
+                  "deep-learning",
+                  "dialogue-systems",
+                  "large-language-models",
+                  "natural-language-processing",
+                  "text-generation"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2588,12 +4362,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）",
+                "homepage": null,
                 "id": 615256902,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-16T11:38:59Z",
+                "open_issues": 106,
                 "owner": "LianjiaTech",
                 "repo": "BELLE",
-                "stars": 8275
+                "stars": 8275,
+                "topics": [
+                  "bloom",
+                  "chinese-nlp",
+                  "gpt-evaluation",
+                  "gpt-q",
+                  "instruct-finetune",
+                  "instruct-gpt",
+                  "instruction-set",
+                  "llama",
+                  "lora",
+                  "open-models"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2604,12 +4394,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+                "homepage": null,
                 "id": 545104023,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-08T20:07:19Z",
+                "open_issues": 102,
                 "owner": "CarperAI",
                 "repo": "trlx",
-                "stars": 4755
+                "stars": 4755,
+                "topics": [
+                  "machine-learning",
+                  "pytorch",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2620,12 +4419,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.",
+                "homepage": null,
                 "id": 617504730,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-07-01T16:31:39Z",
+                "open_issues": 107,
                 "owner": "Lightning-AI",
                 "repo": "lit-llama",
-                "stars": 6085
+                "stars": 6085,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2636,12 +4440,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters",
+                "homepage": null,
                 "id": 653537620,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-06-14T08:45:33Z",
+                "open_issues": 1,
                 "owner": "ZrrSkywalker",
                 "repo": "LLaMA-Adapter",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2652,12 +4461,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp",
+                "homepage": "https://koboldai.com",
                 "id": 363765247,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-16T17:01:49Z",
+                "open_issues": 120,
                 "owner": "KoboldAI",
                 "repo": "KoboldAI-Client",
-                "stars": 3944
+                "stars": 3944,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2668,12 +4482,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatYuan: Large Language Model for Dialogue in Chinese and English",
+                "homepage": "https://www.clueai.cn",
                 "id": 588565917,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-16T13:36:35Z",
+                "open_issues": 30,
                 "owner": "clue-ai",
                 "repo": "ChatYuan",
-                "stars": 1863
+                "stars": 1863,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2684,12 +4503,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题",
+                "homepage": null,
                 "id": 618784510,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2025-01-23T12:55:35Z",
+                "open_issues": 56,
                 "owner": "wenda-LLM",
                 "repo": "wenda",
-                "stars": 6159
+                "stars": 6159,
+                "topics": [
+                  "chatglm-6b",
+                  "chatrwkv",
+                  "rwkv"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2700,12 +4528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A minimum example of aligning language models with RLHF similar to ChatGPT",
+                "homepage": null,
                 "id": 601947829,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-09-26T06:22:13Z",
+                "open_issues": 4,
                 "owner": "ethanyanjiali",
                 "repo": "minChatGPT",
-                "stars": 226
+                "stars": 226,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -2723,12 +4556,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 524871042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-07-25T10:33:53Z",
+                "open_issues": 75,
                 "owner": "microsoft",
                 "repo": "BioGPT",
-                "stars": 4488
+                "stars": 4488,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2739,12 +4577,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 617219182,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-17T22:24:31Z",
+                "open_issues": 49,
                 "owner": "Kent0n-Li",
                 "repo": "ChatDoctor",
-                "stars": 3631
+                "stars": 3631,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2755,12 +4598,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⚖️ AI 法律助手",
+                "homepage": "https://law.ai2045.com/",
                 "id": 630755965,
                 "language": "MDX",
+                "license": null,
                 "last_commit": "2023-06-23T08:20:17Z",
+                "open_issues": 11,
                 "owner": "lvwzhen",
                 "repo": "law-cn-ai",
-                "stars": 4908
+                "stars": 4908,
+                "topics": [
+                  "chatgpt",
+                  "law",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -2778,12 +4630,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
+                "homepage": "https://prompts.chat",
                 "id": 574523116,
                 "language": "HTML",
-                "last_commit": "2026-08-28T05:47:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T03:15:57Z",
+                "open_issues": 69,
                 "owner": "f",
                 "repo": "prompts.chat",
-                "stars": 168116
+                "stars": 168128,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "awesome-list",
+                  "chatgpt",
+                  "chatgpt-prompts",
+                  "claude",
+                  "gemini",
+                  "gpt",
+                  "gpt-4",
+                  "llm",
+                  "machine-learning",
+                  "nextjs",
+                  "open-source",
+                  "openai",
+                  "prompt-engineering",
+                  "prompts",
+                  "prompts-chat",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2794,12 +4670,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。",
+                "homepage": "https://chat.aimakex.com/",
                 "id": 577116112,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-04-28T10:52:14Z",
+                "open_issues": 45,
                 "owner": "PlexPt",
                 "repo": "awesome-chatgpt-prompts-zh",
-                "stars": 61876
+                "stars": 61879,
+                "topics": [
+                  "chat-gpt",
+                  "chatgpt",
+                  "chatgpt3",
+                  "chatgpt4",
+                  "gpt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2810,12 +4697,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.",
+                "homepage": "https://www.promptingguide.ai/",
                 "id": 579082810,
                 "language": "MDX",
+                "license": "MIT",
                 "last_commit": "2026-03-11T20:09:13Z",
+                "open_issues": 278,
                 "owner": "dair-ai",
                 "repo": "Prompt-Engineering-Guide",
-                "stars": 77872
+                "stars": 77877,
+                "topics": [
+                  "agent",
+                  "agents",
+                  "ai-agents",
+                  "chatgpt",
+                  "deep-learning",
+                  "generative-ai",
+                  "language-model",
+                  "llms",
+                  "openai",
+                  "prompt-engineering",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2826,12 +4730,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stop writing prompts from scratch — a searchable prompt library for ChatGPT, Claude, Gemini and Cursor · Русский 한국어 العربية हिन्दी ไทย ｜ 别再从头写提示词：现成的拿来就用，好用的收进自己的库",
+                "homepage": "https://www.aishort.top/en",
                 "id": 606031950,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T13:18:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:59:48Z",
+                "open_issues": 0,
                 "owner": "rockbenben",
                 "repo": "ChatGPT-Shortcut",
-                "stars": 8727
+                "stars": 8727,
+                "topics": [
+                  "ai-prompt",
+                  "ai-prompts",
+                  "ai-tools",
+                  "aigc",
+                  "chatgpt",
+                  "chatgpt-prompts",
+                  "chrome-extension",
+                  "claude",
+                  "cursor",
+                  "deepseek",
+                  "docusaurus",
+                  "gemini",
+                  "generative-ai",
+                  "productivity",
+                  "prompt",
+                  "prompt-engineering",
+                  "prompt-library",
+                  "prompt-management",
+                  "prompt-templates",
+                  "prompts"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2842,12 +4772,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT DAN, Jailbreaks prompt",
+                "homepage": null,
                 "id": 602005115,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-03-02T17:44:09Z",
+                "open_issues": 90,
                 "owner": "0xk1h0",
                 "repo": "ChatGPT_DAN",
-                "stars": 12346
+                "stars": 12348,
+                "topics": [
+                  "chatgpt",
+                  "gpt-3-5",
+                  "gpt-4",
+                  "jailbreak",
+                  "openai",
+                  "prompt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2858,12 +4800,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "如何将ChatGPT调教成一只猫娘",
+                "homepage": null,
                 "id": 576921601,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-18T15:57:44Z",
+                "open_issues": 11,
                 "owner": "L1Xu4n",
                 "repo": "Awesome-ChatGPT-prompts-ZH_CN",
-                "stars": 3180
+                "stars": 3180,
+                "topics": [
+                  "awesome",
+                  "bing-chat",
+                  "catgirl",
+                  "chatgpt",
+                  "claude",
+                  "claude-slack",
+                  "neko",
+                  "newbing",
+                  "prompt-engineering"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2874,12 +4831,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A repository of 60 useful data science prompts for ChatGPT",
+                "homepage": null,
                 "id": 586758655,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-12-28T15:18:28Z",
+                "open_issues": 1,
                 "owner": "travistangvh",
                 "repo": "ChatGPT-Data-Science-Prompts",
-                "stars": 1619
+                "stars": 1619,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2890,12 +4852,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ChatGPT提问技巧",
+                "homepage": null,
                 "id": 616598798,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-03-21T04:43:23Z",
+                "open_issues": 1,
                 "owner": "ORDINAND",
                 "repo": "The-Art-of-Asking-ChatGPT-for-High-Quality-Answers-A-complete-Guide-to-Prompt-Engineering-Technique",
-                "stars": 1007
+                "stars": 1007,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -2913,12 +4880,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of all the GPTs created by the community",
+                "homepage": null,
                 "id": 717123449,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-04-21T19:47:16Z",
+                "open_issues": 5,
                 "owner": "taranjeet",
                 "repo": "awesome-gpts",
-                "stars": 1367
+                "stars": 1367,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "chatgpt",
+                  "gpts",
+                  "gptstore",
+                  "lists",
+                  "resources"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2929,12 +4909,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of awesome GPTs 👍.",
+                "homepage": "https://github.com/ai-boost/awesome-gpts",
                 "id": 716583109,
                 "language": null,
+                "license": "GPL-3.0",
                 "last_commit": "2024-11-03T00:50:20Z",
+                "open_issues": 56,
                 "owner": "ai-boost",
                 "repo": "Awesome-GPTs",
-                "stars": 3407
+                "stars": 3407,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "chatgpt",
+                  "curated-list",
+                  "gpts"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2945,12 +4936,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Crawl a site to generate knowledge files to create your own custom GPT from a URL",
+                "homepage": "https://www.builder.io/blog/custom-gpt",
                 "id": 718379614,
                 "language": "TypeScript",
+                "license": "ISC",
                 "last_commit": "2025-07-07T15:35:16Z",
+                "open_issues": 110,
                 "owner": "BuilderIO",
                 "repo": "gpt-crawler",
-                "stars": 22391
+                "stars": 22392,
+                "topics": [
+                  "ai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -2968,12 +4966,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reverse engineered ChatGPT API",
+                "homepage": null,
                 "id": 573819845,
                 "language": "Python",
+                "license": "GPL-2.0",
                 "last_commit": "2023-08-02T06:02:10Z",
+                "open_issues": 11,
                 "owner": "acheong08",
                 "repo": "ChatGPT",
-                "stars": 27901
+                "stars": 27901,
+                "topics": [
+                  "chatgpt",
+                  "cli",
+                  "gpt-35-turbo",
+                  "gptchat",
+                  "library",
+                  "pypi-package",
+                  "revchatgpt"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -2984,12 +4995,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reverse engineered API of Microsoft's Bing Chat AI",
+                "homepage": null,
                 "id": 599662622,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2023-08-03T13:37:26Z",
+                "open_issues": 37,
                 "owner": "acheong08",
                 "repo": "EdgeGPT",
-                "stars": 7850
+                "stars": 7850,
+                "topics": [
+                  "bing-ai",
+                  "binggpt",
+                  "chatgpt",
+                  "edge",
+                  "edgegpt",
+                  "gpt",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3000,12 +5024,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The agent engineering platform.",
+                "homepage": "https://docs.langchain.com/langchain/",
                 "id": 552661142,
                 "language": "Python",
-                "last_commit": "2026-08-28T16:19:21Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:20:17Z",
+                "open_issues": 431,
                 "owner": "langchain-ai",
                 "repo": "langchain",
-                "stars": 145195
+                "stars": 145215,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "anthropic",
+                  "chatgpt",
+                  "deepagents",
+                  "enterprise",
+                  "framework",
+                  "gemini",
+                  "generative-ai",
+                  "langchain",
+                  "langgraph",
+                  "llm",
+                  "multiagent",
+                  "open-source",
+                  "openai",
+                  "pydantic",
+                  "python",
+                  "rag",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3016,12 +5066,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Universal memory layer for AI Agents",
+                "homepage": "https://mem0.ai",
                 "id": 656099147,
                 "language": "Python",
-                "last_commit": "2026-08-28T14:20:26Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:02:50Z",
+                "open_issues": 703,
                 "owner": "mem0ai",
                 "repo": "mem0",
-                "stars": 64265
+                "stars": 64281,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "ai-agents",
+                  "application",
+                  "chatbots",
+                  "chatgpt",
+                  "genai",
+                  "llm",
+                  "long-term-memory",
+                  "memory",
+                  "memory-management",
+                  "python",
+                  "rag",
+                  "state-management"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3032,12 +5102,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、拦截跟踪、日新月异、明察秋毫等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。",
+                "homepage": null,
                 "id": 620458878,
                 "language": "JavaScript",
+                "license": "GPL-2.0",
                 "last_commit": "2026-07-20T18:45:12Z",
+                "open_issues": 128,
                 "owner": "xcanwin",
                 "repo": "KeepChatGPT",
-                "stars": 14907
+                "stars": 14907,
+                "topics": [
+                  "ai",
+                  "chatgpt",
+                  "datasecurity",
+                  "openai",
+                  "userscript"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3048,12 +5129,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic cache for LLMs. Fully integrated with LangChain and llama_index. ",
+                "homepage": "https://gptcache.readthedocs.io",
                 "id": 618276831,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-11T09:04:36Z",
+                "open_issues": 97,
                 "owner": "zilliztech",
                 "repo": "GPTCache",
-                "stars": 8172
+                "stars": 8172,
+                "topics": [
+                  "aigc",
+                  "autogpt",
+                  "babyagi",
+                  "chatbot",
+                  "chatgpt",
+                  "chatgpt-api",
+                  "dolly",
+                  "gpt",
+                  "langchain",
+                  "llama",
+                  "llama-index",
+                  "llm",
+                  "memcache",
+                  "milvus",
+                  "openai",
+                  "redis",
+                  "semantic-search",
+                  "similarity-search",
+                  "vector-search"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3064,12 +5170,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3",
+                "homepage": "https://t.me/g4f_channel",
                 "id": 620936652,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T06:56:46Z",
+                "open_issues": 2,
                 "owner": "xtekky",
                 "repo": "gpt4free",
-                "stars": 66607
+                "stars": 66609,
+                "topics": [
+                  "chatbot",
+                  "chatbots",
+                  "chatgpt",
+                  "chatgpt-4",
+                  "chatgpt-api",
+                  "chatgpt-free",
+                  "chatgpt4",
+                  "deepseek",
+                  "deepseek-api",
+                  "deepseek-r1",
+                  "gpt",
+                  "gpt-4",
+                  "gpt-4o",
+                  "gpt4",
+                  "gpt4-api",
+                  "language-model",
+                  "openai",
+                  "openai-api",
+                  "openai-chatgpt",
+                  "reverse-engineering"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3080,12 +5212,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI 工具导航大全，帮你快速筛选免费、实用、高效的网站资源",
+                "homepage": null,
                 "id": 609721722,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-04-26T13:26:59Z",
+                "open_issues": 37,
                 "owner": "xx025",
                 "repo": "carrot",
-                "stars": 17174
+                "stars": 17174,
+                "topics": [
+                  "ai",
+                  "chat",
+                  "chatgpt",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             },
@@ -3096,12 +5238,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "All latest chatgpt messages collection！  收集国内免费ChatGPT镜像，替代品收录，点个Star⭐️，持续更新ing！",
+                "homepage": null,
                 "id": 620883044,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2023-04-27T10:11:05Z",
+                "open_issues": 20,
                 "owner": "GentleLemon",
                 "repo": "ChatGPT-Anything",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:43:35.624Z"
             }
@@ -3123,12 +5270,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀",
+            "homepage": null,
             "id": 616751895,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-25T13:40:33Z",
+            "open_issues": 2,
             "owner": "EmbraceAGI",
             "repo": "awesome-chatgpt-zh",
-            "stars": 11666
+            "stars": 11668,
+            "topics": [
+              "agi",
+              "ai",
+              "awesome",
+              "awesome-list",
+              "chat-gpt",
+              "chatglm",
+              "chatgpt",
+              "chatgpt3",
+              "chatgpt35-turbo",
+              "claude",
+              "deeplearning",
+              "gpt",
+              "gpt-4",
+              "langchain",
+              "openai",
+              "openai-chatgpt",
+              "prompt",
+              "prompt-engineering",
+              "tools"
+            ]
           },
           "first_seen": "2026-08-28T17:43:35.624Z"
         },
@@ -3139,12 +5311,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of awesome tools, demos, docs for ChatGPT and GPT-3",
+            "homepage": null,
             "id": 574097989,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-15T20:35:53Z",
+            "open_issues": 139,
             "owner": "humanloop",
             "repo": "awesome-chatgpt",
-            "stars": 8204
+            "stars": 8204,
+            "topics": [
+              "chatgpt",
+              "gpt-3",
+              "gpt3",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T17:43:35.624Z"
         },
@@ -3155,12 +5337,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of totally open alternatives to ChatGPT",
+            "homepage": null,
             "id": 615695876,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-05-03T02:45:22Z",
+            "open_issues": 9,
             "owner": "nichtdax",
             "repo": "awesome-totally-open-chatgpt",
-            "stars": 4787
+            "stars": 4787,
+            "topics": [
+              "alternative",
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "chatgpt",
+              "open-source"
+            ]
           },
           "first_seen": "2026-08-28T17:43:35.624Z"
         }
@@ -3169,15 +5363,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:43:35.624Z",
+    "last_updated": "2026-08-29T04:14:15.500Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥",
+      "homepage": null,
       "id": 622980722,
       "language": "Python",
+      "license": null,
       "last_commit": "2025-05-16T10:55:24Z",
+      "open_issues": 22,
       "owner": "EwingYangs",
       "repo": "awesome-open-gpt",
-      "stars": 6043
+      "stars": 6044,
+      "topics": [
+        "agentgpt",
+        "ai",
+        "aigc",
+        "autogpt",
+        "awesome",
+        "awesome-list",
+        "chatbox",
+        "chatgpt",
+        "chatgpt-api",
+        "chatgpt-sdk",
+        "gpt",
+        "gpt4",
+        "gpt4free",
+        "gpt4o",
+        "gpts",
+        "gptstore",
+        "machinelearning",
+        "minigpt",
+        "moss",
+        "open-source"
+      ]
     },
     "original_repository_sha": "a843e44f2bbe7b1364af05995eb3aa14696a2c6f",
     "enhanced_repository": "enhansome/enhansome-open-gpt",
